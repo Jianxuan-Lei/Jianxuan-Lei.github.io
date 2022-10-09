@@ -39,6 +39,8 @@ Friedman, E. D. (2014). Economic development and sectoral unions in China. ILR R
 
 Liu, M. (2010). Union organizing in China: Still a monolithic labor movement?. ILR Review, 64(1), 30-52.
 
+Liu, M., & Kuruvilla, S. (2016). The state, the unions, and collective bargaining in China: The good, the bad, and the ugly. Comp. Lab. L. & Pol'y J., 38, 187.
+
 Lu, Y., Tao, Z., & Wang, Y. (2010). Union effects on performance and employment relations: Evidence from China. China Economic Review, 21(1), 202-210.
 
 Song, Y., Yang, J., & Yang, Q. (2016). Do firms' political connections depress the union wage effect? Evidence from China. China Economic Review, 38, 183-198.
@@ -66,6 +68,12 @@ Lurie, L. (2014). Do unions promote gender equality. Duke J. Gender L. & Pol'y, 
 Park, T. Y., Lee, E. S., & Budd, J. W. (2019). What do unions do for mothers? Paid maternity leave use and the multifaceted roles of labor unions. ILR Review, 72(3), 662-692.
 
 Williamson, S., & Baird, M. (2014). Gender equality bargaining: Developing theory and practice. Journal of Industrial Relations, 56(2), 155-169.
+
+Trade unions and immigrants
+------
+Alberti, G., Holgate, J., & Tapia, M. (2013). Organising migrants as workers or as migrant workers? Intersectionality, trade unions and precarious work. The International Journal of Human Resource Management, 24(22), 4132-4148.
+
+Bedaso, F. J., Jirjahn, U., & Goerke, L. (2022). Immigrants and Trade Union Membership: Does Integration into Society and Workplace Play a Moderating Role? (No. 1169). GLO Discussion Paper.
 
 Intersectionality
 ------

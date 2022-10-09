@@ -21,7 +21,7 @@ One potential solution is to create dummy variables in the first place using Sta
 This is cumbersome, becase a loop may be required when you have multiple categorically variables:
 
 	foreach var of x y z {
-	    tab(`i'), gen(`i'_)
+		tab(`i'), gen(`i'_)
 	}
 
 The "dummyout" Command

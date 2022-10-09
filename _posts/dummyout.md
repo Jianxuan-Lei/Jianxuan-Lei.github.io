@@ -21,7 +21,7 @@ An obvious solution is to create dummy variables in the first place before you s
 However, such a approach is cumbersome when you have multiple categorical variables, since you probably need to write a loop:
 
 	.	foreach var of x y z {
-	.		tab(`i'), gen(`i'_)
+	.		tab(`var'), gen(`var'_)
 	.	}
 	
 Moreover, the generated dummy variables do not have neat tables that you can use later to tabulate your summary statistics. For example,
@@ -43,4 +43,6 @@ The "dummyout" Command
 ------
 The "dummyout" command improves Stata's "tab(),gen()" in the following ways:
 * Dummyout accepts multiple variables and does not require a loop
-* Dummyout uses value label numbers to label generated dummies, instead of using the sequences that dummies are generated
+* Dummyout uses actual values to label generated dummies, instead of using the sequence in which dummies are generated
+
+The following example using the CPS 

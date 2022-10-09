@@ -35,7 +35,11 @@ Chen, F. (2003). Between the state and labour: The conflict of Chinese trade uni
 
 Chen, F. (2009). Union power in China source, operation, and constraints. Modern China, 35(6), 662-689.
 
+Chen, P., & Gallagher, M. (2018). Mobilization without movement: How the Chinese state “fixed” labor insurgency. ILR Review, 71(5), 1029-1052.
+
 Friedman, E. D. (2014). Economic development and sectoral unions in China. ILR Review, 67(2), 481-503.
+
+Hui, E. S. I. (2022). Bottom‐Up Unionization in China: A Power Resources Analysis. British Journal of Industrial Relations, 60(1), 99-123.
 
 Liu, M. (2010). Union organizing in China: Still a monolithic labor movement?. ILR Review, 64(1), 30-52.
 
@@ -57,6 +61,14 @@ Budd, J. W., & Lamare, J. R. (2021). Worker Voice and Political Participation in
 
 Budd, J. W., Lamare, J. R., & Timming, A. R. (2018). Learning about democracy at work: Cross-national evidence on individual employee voice influencing political participation in civil society. ILR Review, 71(4), 956-985.
 
+Lamare, J. R. (2010). Union influence on voter turnout: Results from three Los Angeles county elections. ILR Review, 63(3), 454-470.
+
+Lamare, J. R. (2016). Labor Unions and Political Mobilization: Diminishing Returns of Repetitious Contact. Industrial Relations: A Journal of Economy and Society, 55(2), 346-374.
+
+Lamare, J. R. (2016). Union experience and worker policy: Legislative behavior in California, 1999–2012. ILR review, 69(1), 113-141.
+
+Lamare, J. R., & Budd, J. W. (2022). The relative importance of industrial relations ideas in politics: A quantitative analysis of political party manifestos across 54 countries. Industrial Relations: A Journal of Economy and Society, 61(1), 22-49.
+
 Sojourner, A. J. (2013). Do unions promote members' electoral office holding? Evidence from correlates of state legislatures' occupational shares. ILR Review, 66(2), 467-486.
 
 Trade unions and women
@@ -74,6 +86,22 @@ Trade unions and immigrants
 Alberti, G., Holgate, J., & Tapia, M. (2013). Organising migrants as workers or as migrant workers? Intersectionality, trade unions and precarious work. The International Journal of Human Resource Management, 24(22), 4132-4148.
 
 Bedaso, F. J., Jirjahn, U., & Goerke, L. (2022). Immigrants and Trade Union Membership: Does Integration into Society and Workplace Play a Moderating Role? (No. 1169). GLO Discussion Paper.
+
+Conflict and dispute resolution
+------
+Avgar, A. C. (2021). Relational exchange in non-union firms: A configurational framework for workplace dispute resolution and voice. ILR Review, 74(3), 607-636.
+
+Budd, J. W., Colvin, A. J., & Pohler, D. (2020). Advancing dispute resolution by understanding the sources of conflict: Toward an integrated framework. ILR Review, 73(2), 254-280.
+
+Budd, J. W., Sojourner, A., & Jung, J. (2017). Are voluntary agreements better? Evidence from baseball arbitration. ILR Review, 70(4), 865-893.
+
+Campolieti, M., & Riddell, C. (2020). Does Mediation-Arbitration Reduce Arbitration Rates? Evidence from a Natural Experiment. ILR Review, 73(1), 211-235.
+
+Colvin, A. J. (2004). The relationship between employee involvement and workplace dispute resolution. Relations Industrielles/Industrial Relations, 59(4), 681-704.
+
+Colvin, A. J. (2011). An empirical study of employment arbitration: Case outcomes and processes. Journal of Empirical Legal Studies, 8(1), 1-23.
+
+Lipsky, D. B., Avgar, A. C., & Lamare, J. R. (2020). Organizational conflict resolution and strategic choice: Evidence from a survey of Fortune 1000 firms. ILR Review, 73(2), 431-455.
 
 Intersectionality
 ------

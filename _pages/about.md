@@ -14,7 +14,7 @@ Hi there! I am Jianxuan Lei, a Ph.D. student in the [Department of Work and Orga
 1. Trade unions in different institutional contexts
 2. Identities at work (e.g., gender)
       
-My research employs an interdisciplinary perspective informed by economics, sociology, and political theory, supported by empirical evidence from econometric analysis.
+My research employs an interdisciplinary perspective informed by economics, sociology, and political theory, supported by empirical evidence from archival data and econometric analysis.
 
 ## My Work and Research
 To be added.

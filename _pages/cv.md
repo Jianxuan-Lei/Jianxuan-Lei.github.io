@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf) to download or print
+Click [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf) to view or download.

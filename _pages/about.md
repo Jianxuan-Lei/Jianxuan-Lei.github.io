@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Work and Organizations at the Carlson School of Management, University of Minnesota. I study industrial relations with particular focuses on (1) trade unions in different institutional contexts and (2) identities at work (e.g., gender). My research employs an interdisciplinary perspective infromed by economics, sociology, and political theory.
+Hi! My name is Jianxuan Lei, a Ph.D. student in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota Twin Cities. I study industrial relations with a particular focus on (1) trade unions in different institutional contexts and (2) identities at work (e.g., gender). My research employs an interdisciplinary perspective informed by economics, sociology, and political theory, supported by empirical evidence from econometric analysis.
+
+## My Work and Research
+To be added.
+
+## My Background and History
+To be added.

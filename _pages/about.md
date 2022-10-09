@@ -17,6 +17,9 @@ Hi there! I am Jianxuan Lei, a Ph.D. student in the [Department of Work and Orga
 My research employs an interdisciplinary perspective, informed by economics, sociology, and political theory. Most of the time, I work with quantitative data and use econometric analysis to provide empirical evidence.
 
 ## Resources
+* Industrial Relations
+  * [An invitation to industrial relations](https://jianxuan-lei.github.io/posts/2022/10/industrial-relations/)
+
 * Stata
   * [Dummy out categorical variables](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) (Stata command)
   * [Simple Stata-to-Latex templates](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)

@@ -13,7 +13,7 @@ What is industrial relations?
 ------
 Budd, J. W. (2010). Labor relations: Striking a balance. New York, NY: McGraw-Hill Irwin.
 
-Hyman, R. (1975). What is Industrial Relations? A Marxist Introduction. Palgrave Macmillan, London.
+Hyman, R. (1975). What is industrial relations? A Marxist introduction. Palgrave Macmillan, London.
 
 Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory in industrial relations: the contested role of worker representation. Socio-Economic Review, 13(1), 157-184.
 

@@ -18,13 +18,13 @@ An obvious solution is to create dummy variables in the first place before you s
 
 	.	tab x, gen(x_)
 	
-However, this approach is cumbersome when you have multiple categorical variables, since you probably need to write a loop:
+However, such a approach is cumbersome when you have multiple categorical variables, since you probably need to write a loop:
 
 	.	foreach var of x y z {
 	.		tab(`i'), gen(`i'_)
 	.	}
 	
-Moreover, the generated dummy variables do not have neat tables that you can use later to esttab your summary statistics. For example,
+Moreover, the generated dummy variables do not have neat tables that you can use later to tabulate your summary statistics. For example,
 
 	.	sysuse auto, clear
 	.	tab(foreign), gen(foreign_)
@@ -37,6 +37,7 @@ Moreover, the generated dummy variables do not have neat tables that you can use
 	foreign_1       byte    %8.0g                 foreign==Domestic
 	foreign_2       byte    %8.0g                 foreign==Foreign
 
+These minor issues motivate me to write a simple program "dummyout" to avoid all the troubles, which I will introduce in the next section.
 
 The "dummyout" Command
 ------

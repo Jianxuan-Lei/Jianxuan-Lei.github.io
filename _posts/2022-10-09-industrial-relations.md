@@ -7,7 +7,7 @@ tags:
   - Litreature
 ---
 
-This post is a collection of literature in industrial relations (IR), as well as an introduction of IR-related work to readers from the outside. I will continuously update this collection and occasionally write brief reviews for important and interesting work in IR. If you have any suggestions, please feel free to contact via email.
+This post is a collection of literature in industrial relations (IR), as well as an introduction of IR-related work to readers from the outside. I will continuously update this collection and occasionally write brief reviews for important and interesting work in IR. If you have any suggestions, please feel free to contact me via email.
 
 What is industrial relations?
 ------

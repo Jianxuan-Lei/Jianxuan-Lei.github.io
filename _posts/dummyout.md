@@ -41,7 +41,7 @@ These minor issues motivate me to write a simple program "dummyout" to avoid all
 
 The "dummyout" Command
 ------
-The "dummyout" command improves Stata's "tab(),gen()" in the following ways:
+The "dummyout" command improves Stata's "tab(), gen()" in the following ways:
 * Dummyout accepts multiple variables and does not require a loop
 * Dummyout uses actual values to label generated dummies, instead of using the sequence in which dummies are generated
 

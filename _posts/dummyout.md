@@ -8,11 +8,11 @@ tags:
   - category2
 ---
 
-Easy Summary Statistics for Categorical Variables in Stata
+Summary Statistics for Categorical Variables in Stata
 ======
-It is somewhat painful to produce a table for summary statistics in Stata when you have a lot of categorical variables. The
+It is somewhat painful to produce a table for summary statistics in Stata when you have a lot of categorical variables. The issue is that the popular user-written command "esttab: espsots sum varlist"
 
-The ``dummyout'' Command
+The "dummyout" Command
 ------
 This "dummyout" command improves Stata's "tab(), gen()" command in the following ways:
 	* Dummyout accepts multiple variables and does not require a loop

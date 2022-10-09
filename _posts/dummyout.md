@@ -42,8 +42,8 @@ These minor issues motivate me to write a simple program "dummyout" to avoid all
 The "dummyout" Command
 ------
 The "dummyout" command improves Stata's "tab(), gen()" in the following ways:
-* Dummyout accepts multiple variables and does not require a loop
-* Dummyout uses actual values to label generated dummies, instead of using the sequence in which dummies are generated
+* dummyout accepts multiple variables and does not require a loop
+* dummyout uses actual values to label generated dummies, instead of using the sequence in which dummies are generated
 
 The ado file for "dummyout" can be downloaded [here](https://jianxuan-lei.github.io/files/dummyout.ado). You are ready to go once you put it in your Stata's personal ado-file path.
 

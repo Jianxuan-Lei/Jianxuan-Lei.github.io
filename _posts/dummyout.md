@@ -18,7 +18,7 @@ An obvious solution is to create dummy variables in the first place before you s
 
 	.	tab x, gen(x_)
 	
-However, this becomes cumbersome when you have multiple categorical variables, since you probably need to write a loop:
+However, this approach is cumbersome when you have multiple categorical variables, since you probably need to write a loop:
 
 	.	foreach var of x y z {
 	.		tab(`i'), gen(`i'_)

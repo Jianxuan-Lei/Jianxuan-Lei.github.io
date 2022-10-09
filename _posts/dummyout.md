@@ -47,11 +47,11 @@ The "dummyout" command improves Stata's "tab(),gen()" in the following ways:
 
 The following example illustrates these points using a dataset from CPS ASEC 2021.
 
-	.* import data
+	. * import data
 	. use CPS2021_union_good, clear
 
 	. 
-	.* describe the categorical variable: firmsize
+	. * describe the categorical variable: firmsize
 	. d    firmsize race
 
 		      storage   display    value
@@ -62,7 +62,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	race            float   %9.0g      newrace    Race (4 categories)
 	
 	. 
-	.* add numbers to the value labels & tabulate
+	. * add numbers to the value labels & tabulate
 	. numlabel firmsize_lbl newrace, add
 
 	. tab1     firmsize race
@@ -93,7 +93,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	------------+-----------------------------------
 	      Total |      8,858      100.00
 	      
-	.* dummyout: as you will see, the suffix matches the values 
+	. * dummyout: as you will see, the suffix matches the values 
 	. dummyout firmsize race
 	dummy variable(s) created for: firmsize
 	dummy variable(s) created for: race
@@ -115,7 +115,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	race_4          float   %9.0g                 4. Other
 
 	. 
-	.* alternatively, the suffix does match the values when using tab(),gen()
+	. * alternatively, the suffix does match the values when using tab(),gen()
 	. drop firmsize_* race_*
 
 	. 

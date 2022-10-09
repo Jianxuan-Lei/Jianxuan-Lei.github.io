@@ -113,7 +113,7 @@ Budd, J. W., Colvin, A. J., & Pohler, D. (2020). Advancing dispute resolution by
 
 Budd, J. W., Sojourner, A., & Jung, J. (2017). Are voluntary agreements better? Evidence from baseball arbitration. ILR Review, 70(4), 865-893.
 
-Campolieti, M., & Riddell, C. (2020). Does Mediation-Arbitration Reduce Arbitration Rates? Evidence from a Natural Experiment. ILR Review, 73(1), 211-235.
+Campolieti, M., & Riddell, C. (2020). Does mediation-arbitration reduce arbitration rates? Evidence from a natural experiment. ILR Review, 73(1), 211-235.
 
 Colvin, A. J. (2004). The relationship between employee involvement and workplace dispute resolution. Relations Industrielles/Industrial Relations, 59(4), 681-704.
 

@@ -17,11 +17,63 @@ Hyman, R. (1975). What is Industrial Relations? A Marxist Introduction. Palgrave
 
 Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory in industrial relations: the contested role of worker representation. Socio-Economic Review, 13(1), 157-184.
 
+What do unions do in the U.S.?
+------
+Budd, J. W. (1996). Union wage determination in Canadian and US manufacturing, 1964–1990: A comparative analysis. ILR Review, 49(4), 673-689.
+
+Freeman, R. B., & Medoff, J. L. (1979). The two faces of unionism. NBER Working Paper Series
+
+Sojourner, A., & Yang, J. (2022). Effects of union certification on workplace-safety enforcement: regression-discontinuity evidence. ILR Review, 75(2), 373-401.
+
+Sojourner, A. J., Frandsen, B. R., Town, R. J., Grabowski, D. C., & Chen, M. M. (2015). Impacts of unionization on quality and productivity: Regression discontinuity evidence from nursing homes. ILR Review, 68(4), 771-806.
+
+What do unions do in China?
+------
+Budd, J. W., Chi, W., Wang, Y., & Xie, Q. (2014). What do unions in China do? Provincial-level evidence on wages, employment, productivity, and economic output. Journal of Labor Research, 35(2), 185-204.
+
+Chen, F. (2003). Between the state and labour: The conflict of Chinese trade unions' double identity in market reform. The China Quarterly, 176, 1006-1028.
+
+Chen, F. (2009). Union power in China source, operation, and constraints. Modern China, 35(6), 662-689.
+
+Friedman, E. D. (2014). Economic development and sectoral unions in China. ILR Review, 67(2), 481-503.
+
+Liu, M. (2010). Union organizing in China: Still a monolithic labor movement?. ILR Review, 64(1), 30-52.
+
+Lu, Y., Tao, Z., & Wang, Y. (2010). Union effects on performance and employment relations: Evidence from China. China Economic Review, 21(1), 202-210.
+
+Song, Y., Yang, J., & Yang, Q. (2016). Do firms' political connections depress the union wage effect? Evidence from China. China Economic Review, 38, 183-198.
+
+Yao, Y., & Zhong, N. (2013). Unions and workers’ welfare in Chinese firms. Journal of Labor Economics, 31(3), 633-667.
+
+Zhuang, W., & Chen, F. (2015). “Mediate First”: The revival of mediation in labour dispute resolution in China. The China Quarterly, 222, 380-402.
+
+Trade unions and politics
+------
+Budd, J. W., & Lamare, J. R. (2021). The importance of political systems for trade union membership, coverage and influence: Theory and comparative evidence. British Journal of Industrial Relations, 59(3), 757-787.
+
+Budd, J. W., & Lamare, J. R. (2021). Worker Voice and Political Participation in Civil Society. In Handbook of Labor, Human Resources and Population Economics (pp. 1-20). Cham: Springer International Publishing.
+
+Budd, J. W., Lamare, J. R., & Timming, A. R. (2018). Learning about democracy at work: Cross-national evidence on individual employee voice influencing political participation in civil society. ILR Review, 71(4), 956-985.
+
+Sojourner, A. J. (2013). Do unions promote members' electoral office holding? Evidence from correlates of state legislatures' occupational shares. ILR Review, 66(2), 467-486.
+
+Trade unions and women
+------
+Budd, J. W., & Mumford, K. (2004). Trade unions and family-friendly policies in Britain. ILR Review, 57(2), 204-222.
+
+Lurie, L. (2014). Do unions promote gender equality. Duke J. Gender L. & Pol'y, 22, 89.
+
+Park, T. Y., Lee, E. S., & Budd, J. W. (2019). What do unions do for mothers? Paid maternity leave use and the multifaceted roles of labor unions. ILR Review, 72(3), 662-692.
+
+Williamson, S., & Baird, M. (2014). Gender equality bargaining: Developing theory and practice. Journal of Industrial Relations, 56(2), 155-169.
+
 Intersectionality
 ------
 Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological theory, 28(2), 129-149.
 
 Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. Signs: Journal of Women in Culture and Society, 38(4), 785-810.
+
+Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
 
 Lee, T. L., & Tapia, M. (2021). Confronting race and other social identity erasures: the case for critical industrial relations theory. ILR Review, 74(3), 637-662.
 

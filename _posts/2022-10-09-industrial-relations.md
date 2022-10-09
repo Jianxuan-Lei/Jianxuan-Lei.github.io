@@ -73,7 +73,7 @@ Anner, M., & Liu, X. (2016). Harmonious unions and rebellious workers: A study o
 
 Budd, J. W., & Lamare, J. R. (2021). The importance of political systems for trade union membership, coverage and influence: Theory and comparative evidence. British Journal of Industrial Relations, 59(3), 757-787.
 
-Budd, J. W., & Lamare, J. R. (2021). Worker Voice and Political Participation in Civil Society. In Handbook of Labor, Human Resources and Population Economics (pp. 1-20). Cham: Springer International Publishing.
+Budd, J. W., & Lamare, J. R. (2021). Worker voice and political participation in civil society. In Handbook of Labor, Human Resources and Population Economics (pp. 1-20). Cham: Springer International Publishing.
 
 Budd, J. W., Lamare, J. R., & Timming, A. R. (2018). Learning about democracy at work: Cross-national evidence on individual employee voice influencing political participation in civil society. ILR Review, 71(4), 956-985.
 

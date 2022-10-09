@@ -96,7 +96,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	      
 	      
 	      
-	.	* dummyout: as you will see, the suffix matches the values 
+	.	* dummyout: as you will see, the suffix matches the values for firmsize
 	. 	dummyout firmsize race
 	
 	dummy variable(s) created for: firmsize
@@ -119,7 +119,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	race_4          float   %9.0g                 4. Other
 
 	
-	. 	* alternatively, the suffix does match the values when using tab(),gen()
+	. 	* alternatively, the suffix does match the values for firmsize when using tab(),gen()
 	. 	drop firmsize_* race_*
 
 	. 

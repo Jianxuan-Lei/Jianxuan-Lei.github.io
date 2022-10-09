@@ -7,6 +7,8 @@ tags:
   - Litreature
 ---
 
+This post is a collection of literature in industrial relations and related fileds to readers.
+
 What is industrial relations?
 ------
 Budd, J. W. (2010). Labor relations: Striking a balance. New York, NY: McGraw-Hill Irwin.

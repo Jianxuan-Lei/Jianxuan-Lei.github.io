@@ -47,6 +47,9 @@ The "dummyout" command improves Stata's "tab(), gen()" in the following ways:
 
 The ado file for "dummyout" can be downloaded [here](https://jianxuan-lei.github.io/files/dummyout.ado). You are ready to go once you put it in your Stata's personal ado-file path.
 
+
+An Example
+------
 The following example illustrates these points using a dataset from CPS ASEC 2021.
 
 	. 	* import data

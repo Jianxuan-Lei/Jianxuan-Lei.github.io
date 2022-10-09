@@ -16,9 +16,6 @@ Hi there! I am Jianxuan Lei, a Ph.D. student in the [Department of Work and Orga
       
 My research employs an interdisciplinary perspective, informed by economics, sociology, and political theory. Most of the time, I work with quantitative data and use econometric analysis to provide empirical evidence.
 
-## My Work and Research
-To be added.
-
 ## My Background and History
 To be added.
 

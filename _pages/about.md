@@ -24,4 +24,4 @@ To be added.
 
 ## Resources
 * [Simple Stata-to-Latex template](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)
-* [Dummyout](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) categorical variables in Stata
+* [Dummy out](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) categorical variables in Stata

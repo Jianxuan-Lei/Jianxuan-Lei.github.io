@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jianxuan Lei"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in the Department of Work and Organizations, Carlson School of Management, University of Minnesota"
-  location         : "Minneapolis, MN, USA"
+  bio              : "Ph.D. Student, Department of Work and Organizations, Carlson School of Management, University of Minnesota"
+  location         : "Minneapolis, MN 55455, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/jianxuanlei?lang=en"
+  twitter          : "https://twitter.com/jianxuanlei"
   vine             :
   weibo            :
   xing             :

@@ -23,6 +23,10 @@ Artz, B., Blanchflower, D. G., & Bryson, A. (2022). Unions increase job satisfac
 
 Budd, J. W. (1996). Union wage determination in Canadian and US manufacturing, 1964–1990: A comparative analysis. ILR Review, 49(4), 673-689.
 
+Card, D. (1996). The effect of unions on the structure of wages: A longitudinal analysis. Econometrica: Journal of the Econometric Society, 957-979.
+
+Card, D. (2001). The effect of unions on wage inequality in the US labor market. ILR Review, 54(2), 296-315.
+
 Freeman, R. B., & Medoff, J. L. (1979). The two faces of unionism. NBER Working Paper Series
 
 Freeman, R. B. (1980). The exit-voice tradeoff in the labor market: Unionism, job tenure, quits, and separations. The Quarterly Journal of Economics, 94(4), 643-673.

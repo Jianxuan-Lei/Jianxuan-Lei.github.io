@@ -65,6 +65,8 @@ Zhuang, W., & Chen, F. (2015). “Mediate First”: The revival of mediation in 
 
 Trade unions and politics
 ------
+Anner, M., & Liu, X. (2016). Harmonious unions and rebellious workers: A study of wildcat strikes in Vietnam. ILR review, 69(1), 3-28.
+
 Budd, J. W., & Lamare, J. R. (2021). The importance of political systems for trade union membership, coverage and influence: Theory and comparative evidence. British Journal of Industrial Relations, 59(3), 757-787.
 
 Budd, J. W., & Lamare, J. R. (2021). Worker Voice and Political Participation in Civil Society. In Handbook of Labor, Human Resources and Population Economics (pp. 1-20). Cham: Springer International Publishing.

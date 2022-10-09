@@ -62,8 +62,8 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	race            float   %9.0g      newrace    Race (4 categories)
 	
 	. 
-	. * add numbers to the value labels & tabulate
-	. numlabel firmsize_lbl newrace, add
+	. 	* add numbers to the value labels & tabulate
+	. 	numlabel firmsize_lbl newrace, add
 
 	. tab1     firmsize race
 
@@ -93,8 +93,9 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	------------+-----------------------------------
 	      Total |      8,858      100.00
 	      
-	. * dummyout: as you will see, the suffix matches the values 
-	. dummyout firmsize race
+	. 	* dummyout: as you will see, the suffix matches the values 
+	. 	dummyout firmsize race
+	
 	dummy variable(s) created for: firmsize
 	dummy variable(s) created for: race
 
@@ -115,16 +116,16 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	race_4          float   %9.0g                 4. Other
 
 	. 
-	. * alternatively, the suffix does match the values when using tab(),gen()
-	. drop firmsize_* race_*
+	. 	* alternatively, the suffix does match the values when using tab(),gen()
+	. 	drop firmsize_* race_*
 
 	. 
-	. foreach var of varlist firmsize race {
-	  2.         qui tab(`var'), gen(`var'_)
-	  3. }
+	.	  foreach var of varlist firmsize race {
+		  2.         qui tab(`var'), gen(`var'_)
+		  3. }
 
 	. 
-	. d firmsize_1 firmsize_2 firmsize_3 firmsize_4 firmsize_5 firmsize_6 race_1 race_2 race_3 race_4
+	. 	d firmsize_1 firmsize_2 firmsize_3 firmsize_4 firmsize_5 firmsize_6 race_1 race_2 race_3 race_4
 
 		      storage   display    value
 	variable name   type    format     label      variable label

@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Course Type"
+permalink: /teaching/2022-fall-teaching
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2022-10-09
 location: "City, Country"
 ---
 

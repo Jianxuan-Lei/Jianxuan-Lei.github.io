@@ -19,6 +19,6 @@ Political theory of work
 ------
 Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books.
 
-Marx, K. (2004). Capital: A Critique of Political Economy (Vol. 1). Penguin Classics.
+Marx, K. (2004). Capital: A critique of political economy (Vol. 1). Penguin Classics.
 
 Weeks, K. (2011). The problem with work. Duke University Press.

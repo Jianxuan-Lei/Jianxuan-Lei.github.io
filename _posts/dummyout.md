@@ -10,7 +10,7 @@ tags:
 
 Summary Statistics for Categorical Variables in Stata
 ------
-It is somewhat painful to produce a table of summary statistics for categorical variables in Stata. The issue is that the popular user-written package esttab does not accept factor notations for summary statistics. In other words, you cannot simply get neat tables with the following command:
+It is somewhat painful to produce a table of summary statistics for categorical variables in Stata. The issue is that the popular user-written package [estout/esttab](http://repec.sowi.unibe.ch/stata/estout/) does not accept factor notations for summary statistics. In other words, you cannot simply get neat tables with the following command:
 
 	eststo: estpost summ i.some_categorical_variable
 

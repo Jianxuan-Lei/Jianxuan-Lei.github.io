@@ -19,13 +19,23 @@ Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory 
 
 What do unions do in the U.S.?
 ------
+Artz, B., Blanchflower, D. G., & Bryson, A. (2022). Unions increase job satisfaction in the United States. Journal of Economic Behavior & Organization, 203, 173-188.
+
 Budd, J. W. (1996). Union wage determination in Canadian and US manufacturing, 1964–1990: A comparative analysis. ILR Review, 49(4), 673-689.
 
 Freeman, R. B., & Medoff, J. L. (1979). The two faces of unionism. NBER Working Paper Series
 
+Freeman, R. B. (1980). The exit-voice tradeoff in the labor market: Unionism, job tenure, quits, and separations. The Quarterly Journal of Economics, 94(4), 643-673.
+
 Sojourner, A., & Yang, J. (2022). Effects of union certification on workplace-safety enforcement: regression-discontinuity evidence. ILR Review, 75(2), 373-401.
 
 Sojourner, A. J., Frandsen, B. R., Town, R. J., Grabowski, D. C., & Chen, M. M. (2015). Impacts of unionization on quality and productivity: Regression discontinuity evidence from nursing homes. ILR Review, 68(4), 771-806.
+
+VanHeuvelen, T. (2020). The right to work, power resources, and economic inequality. American Journal of Sociology, 125(5), 1255-1302.
+
+VanHeuvelen, T., & Brady, D. (2022). Labor unions and American poverty. ILR Review, 75(4), 891-917.
+
+VanHeuvelen, T. (2018). Moral economies or hidden talents? A longitudinal analysis of union decline and wage inequality, 1973–2015. Social Forces, 97(2), 495-530.
 
 What do unions do in China?
 ------
@@ -60,6 +70,8 @@ Budd, J. W., & Lamare, J. R. (2021). The importance of political systems for tra
 Budd, J. W., & Lamare, J. R. (2021). Worker Voice and Political Participation in Civil Society. In Handbook of Labor, Human Resources and Population Economics (pp. 1-20). Cham: Springer International Publishing.
 
 Budd, J. W., Lamare, J. R., & Timming, A. R. (2018). Learning about democracy at work: Cross-national evidence on individual employee voice influencing political participation in civil society. ILR Review, 71(4), 956-985.
+
+Flavin, P. (2018). Labor union strength and the equality of political representation. British Journal of Political Science, 48(4), 1075-1091.
 
 Lamare, J. R. (2010). Union influence on voter turnout: Results from three Los Angeles county elections. ILR Review, 63(3), 454-470.
 

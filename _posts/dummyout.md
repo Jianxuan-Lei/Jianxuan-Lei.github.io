@@ -47,12 +47,12 @@ The "dummyout" command improves Stata's "tab(), gen()" in the following ways:
 
 The following example illustrates these points using a dataset from CPS ASEC 2021.
 
-	. * import data
-	. use CPS2021_union_good, clear
+	. 	* import data
+	. 	use CPS2021_union_good, clear
 
 	. 
-	. * describe the categorical variable: firmsize
-	. d    firmsize race
+	. 	* describe the categorical variable: firmsize
+	. 	d    firmsize race
 
 		      storage   display    value
 	variable name   type    format     label      variable label

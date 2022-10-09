@@ -12,9 +12,9 @@ fontsize: 9pt
 Hi there! I am Jianxuan Lei, a Ph.D. student in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota Twin Cities. I study industrial relations with a particular focus on:
 
 1. Trade unions in different institutional contexts
-2. Identities at work (e.g., gender)
+2. Identities and power relations at work 
       
-My research employs an interdisciplinary perspective informed by economics, sociology, and political theory, supported by empirical evidence from quantitative data and econometric analysis.
+My research employs an interdisciplinary perspective, informed by economics, sociology, and political theory. Most of the time, I work with quantitative data and use econometric analysis to provide empirical evidence.
 
 ## My Work and Research
 To be added.
@@ -25,4 +25,4 @@ To be added.
 ## Resources
 * Stata
   * [Dummy out categorical variables](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) (ado file)
-  * [Simple Stata-to-Latex template](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)
+  * [Simple Stata-to-Latex templates](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)

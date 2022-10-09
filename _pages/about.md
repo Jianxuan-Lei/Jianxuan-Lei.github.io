@@ -23,4 +23,4 @@ To be added.
 To be added.
 
 ## Resources
-[Simple Stata-to-Latex Template](https://www.overleaf.com/read/kfxrxfbqsytm)
+[Simple Stata-to-Latex Template](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)

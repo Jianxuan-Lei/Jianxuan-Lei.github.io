@@ -23,4 +23,5 @@ To be added.
 To be added.
 
 ## Resources
-* [Simple Stata-to-Latex Template](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)
+* [Simple Stata-to-Latex template](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)
+* [Dummy out categorical variables in Stata](https://jianxuan-lei.github.io/posts/2022/10/dummyout/)

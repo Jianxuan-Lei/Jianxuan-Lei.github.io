@@ -14,11 +14,11 @@ It is somewhat painful to produce a table of summary statistics for categorical 
 
 	eststo: estpost sum i.x
 	
-An obvious solution is to create dummy variables in the first place before you summarize them. And Stata's system command can help you do this:
+An obvious solution is to create dummy variables in the first place before you summarize them. Stata's system command can help you do this:
 
 	tab x, gen(x_)
 	
-This is cumbersome becase a loop may be required when you have multiple categorically variables, such as :
+However, this becomes cumbersome when you have multiple categorically variables, since you probably need to write a loop:
 
 	foreach var of x y z {
 		tab(`i'), gen(`i'_)

@@ -1,20 +1,19 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: 'Dummy out Categorical Variables in Stata'
+date: 2022-10-19
+permalink: /posts/2022/19/dummyout/
 tags:
-  - cool posts
-  - category1
+  - Stata
+  - Resources
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
+Easy Summary Statistics for Categorical Variables in Stata
 ======
+It is somewhat painful to produce a table for summary statistics in Stata when you have a lot of categorical variables. The
 
-You can have many headings
-======
-
-Aren't headings cool?
+The ``dummyout'' Command
 ------
+This "dummyout" command improves Stata's "tab(), gen()" command in the following ways:
+	* Dummyout accepts multiple variables and does not require a loop
+	* Dummyout uses value label numbers to label generated dummy variables, instead of using sequences

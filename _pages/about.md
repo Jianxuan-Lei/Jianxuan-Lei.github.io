@@ -24,5 +24,5 @@ To be added.
 
 ## Resources
 * Stata
-  * [Dummy out categorical variables](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) (ado file)
+  * [Dummy out categorical variables](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) (Stata command)
   * [Simple Stata-to-Latex templates](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)

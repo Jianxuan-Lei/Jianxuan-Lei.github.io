@@ -61,6 +61,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 						      Number of employees
 	race            float   %9.0g      newrace    Race (4 categories)
 	
+
 	. 
 	. 	* add numbers to the value labels & tabulate
 	. 	numlabel firmsize_lbl newrace, add
@@ -93,7 +94,9 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	------------+-----------------------------------
 	      Total |      8,858      100.00
 	      
-	. 	* dummyout: as you will see, the suffix matches the values 
+	      
+	      
+	.	* dummyout: as you will see, the suffix matches the values 
 	. 	dummyout firmsize race
 	
 	dummy variable(s) created for: firmsize

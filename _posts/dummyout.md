@@ -118,7 +118,7 @@ The following example illustrates these points using a dataset from CPS ASEC 202
 	race_3          float   %9.0g                 3. Asian
 	race_4          float   %9.0g                 4. Other
 
-	. 
+	
 	. 	* alternatively, the suffix does match the values when using tab(),gen()
 	. 	drop firmsize_* race_*
 

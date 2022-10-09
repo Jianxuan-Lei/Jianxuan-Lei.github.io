@@ -5,7 +5,7 @@ permalink: /posts/2022/19/dummyout/
 tags:
   - Stata
   - Resources
-  - category2
+  - Tables
 ---
 
 Summary Statistics for Categorical Variables in Stata

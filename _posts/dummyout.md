@@ -14,7 +14,7 @@ It is somewhat painful to produce a table of summary statistics for categorical 
 
 	eststo: estpost sum i.x
 	
-One potential solution is to create dummy variables in the first place using Stata's system command:
+An obvious solution is to create dummy variables in the first place before you summarize them. And Stata's system command can help you do this:
 
 	tab x, gen(x_)
 	

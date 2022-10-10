@@ -18,4 +18,4 @@ At the moment, there are only some basic templates such as summary statistics, s
 
 Finally, here are some other useful Stata-to-LaTeX guides:
 * [The Stata-to-LaTeX guide](https://medium.com/the-stata-guide/the-stata-to-latex-guide-6e7ed5622856)
-* [LATEX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)
+* [LaTeX table hints and tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)

@@ -22,4 +22,4 @@ My research employs an interdisciplinary perspective, informed by economics, soc
 
 * Stata
   * [Dummy out categorical variables](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) (Stata command)
-  * [Simple Stata-to-Latex templates](https://www.overleaf.com/read/kfxrxfbqsytm) (Overleaf)
+  * [Simple Stata-to-LaTeX templates](https://jianxuan-lei.github.io/posts/2022/10/stata-to-latex/) (Stata & Overleaf)

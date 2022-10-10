@@ -16,6 +16,6 @@ As such, I realize that it might be a good idea to come up with some easy-to-use
 
 At the moment, there are only some basic templates such as summary statistics, standard regression tables, and stacked regression tables. More content will be added in the future. In addition to the LaTeX tempaltes, I also include my Stata code and log file that produces the tables in the Overleaf document.
 
-Other useful Stata-to-LaTeX guides:
+Finally, here are some other useful Stata-to-LaTeX guides:
 * [The Stata-to-LaTeX guide](https://medium.com/the-stata-guide/the-stata-to-latex-guide-6e7ed5622856)
 * [LATEX Table Hints and Tips](https://statatexblog.com/wp-content/uploads/2013/09/tabletricks_latex.pdf)

@@ -89,7 +89,7 @@ Lamare, J. R., & Budd, J. W. (2022). The relative importance of industrial relat
 
 Sojourner, A. J. (2013). Do unions promote members' electoral office holding? Evidence from correlates of state legislatures' occupational shares. ILR Review, 66(2), 467-486.
 
-Trade unions and women
+Trade unions and gender
 ------
 Budd, J. W., & Mumford, K. (2004). Trade unions and family-friendly policies in Britain. ILR Review, 57(2), 204-222.
 

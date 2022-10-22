@@ -135,7 +135,7 @@ Suzuki, S., Morris, S. L., & Johnson, S. K. (2021). Using QuantCrit to advance a
 
 Political theory of work
 ------
-Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books.
+Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books. [Book Reivew](https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/)
 
 Marx, K. (2004). Capital: A critique of political economy (Vol. 1). Penguin Classics.
 

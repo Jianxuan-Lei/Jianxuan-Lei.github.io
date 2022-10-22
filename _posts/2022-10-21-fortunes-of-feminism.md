@@ -1,5 +1,5 @@
 ---
-title: 'Review of *Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis* by Nancy Fraser'
+title: 'Book Review - Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis by Nancy Fraser'
 date: 2022-10-21
 permalink: /posts/2022/10/fortunes-of-feminism/
 tags:

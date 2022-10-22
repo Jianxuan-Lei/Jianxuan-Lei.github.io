@@ -38,6 +38,6 @@ Freeman, R. B., & Rogers, J. (2006). What workers want? Cornell University Press
 
 Mills, C. W. (2002). White collar: The American middle classes. Oxford University Press. 
 
-Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women’s multiple roles and health. American journal of Sociology, 97(6), 1612–1638. 
+Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women’s multiple roles and health. American Journal of Sociology, 97(6), 1612–1638. 
 
 Weeks, K. (2017). Down with love: Feminist critique and the new ideologies of work. Women’s Studies Quarterly, 45(3/4), 37–58. 4

@@ -28,16 +28,16 @@ Fraser’s interrogation of the second-wave feminism is of course not perfect. F
 
 **References** 
 
-Cho, S. K., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies. In Theories of race and racism (pp. 614–624). Routledge. 
+Cho, S. K., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies. In *Theories of race and racism* (pp. 614–624). Routledge. 
 
-Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological Theory, 28(2), 129–149. 
+Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. *Sociological Theory*, 28(2), 129–149. 
 
-Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books. 
+Fraser, N. (2013). *Fortunes of feminism: From state-managed capitalism to neoliberal crisis*. Verso Books. 
 
-Freeman, R. B., & Rogers, J. (2006). What workers want? Cornell University Press. 
+Freeman, R. B., & Rogers, J. (2006). *What workers want?* Cornell University Press. 
 
-Mills, C. W. (2002). White collar: The American middle classes. Oxford University Press. 
+Mills, C. W. (2002). *White collar: The American middle classes*. Oxford University Press. 
 
-Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women’s multiple roles and health. American Journal of Sociology, 97(6), 1612–1638. 
+Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women’s multiple roles and health. *American Journal of Sociology*, 97(6), 1612–1638. 
 
-Weeks, K. (2017). Down with love: Feminist critique and the new ideologies of work. Women’s Studies Quarterly, 45(3/4), 37–58. 4
+Weeks, K. (2017). Down with love: Feminist critique and the new ideologies of work. *Women’s Studies Quarterly*, 45(3/4), 37–58. 4

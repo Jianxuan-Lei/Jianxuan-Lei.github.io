@@ -2,7 +2,7 @@
 title: "Trade union membership and women's right to work: The complex dynamics between gender, labor, and politics in Europe"
 collection: publications
 permalink: /publication/2022-11-02-women-right-to-work
-excerpt: 'In the Economic and *Philosophic Manuscripts of 1844*, Karl Marx (1988) famously asserts the ``estrangement of man from man'' under commodity production (p. 78). Given the strong gender antagonism in early trade unionism, this declaration may be engendered and re-phrased as the ``estrangement of man from woman''.'
+excerpt: 'In the *Economic and Philosophic Manuscripts of 1844*, Karl Marx (1988) famously asserts the ``estrangement of man from man'' under commodity production (p. 78). Given the strong gender antagonism in early trade unionism, this declaration may be engendered and re-phrased as the ``estrangement of man from woman''.'
 date: 2022-11-02
 venue: 'Working Paper'
 citation: 'Lei, Jianxuan. (2022). &quot;Trade union membership and women's right to work: The complex dynamics between gender, labor, and politics in Europe.&quot;'

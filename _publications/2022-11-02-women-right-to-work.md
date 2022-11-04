@@ -2,7 +2,6 @@
 title: "Trade union membership and women's right to work: The complex dynamics between gender, labor, and politics in Europe"
 collection: publications
 permalink: /publication/2022-11-02-women-right-to-work
-excerpt: 'The notion that women do not have the same right to work as men underlies gender antagonism in early trade unionism...'
 date: 2022-11-02
 venue: 'Working Paper'
 citation: 'Lei, Jianxuan. (2022). &quot;Trade union membership and women\'s right to work: The complex dynamics between gender, labor, and politics in Europe&quot; <i>Working Paper</i>'

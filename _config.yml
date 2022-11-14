@@ -202,6 +202,9 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        overlay_image: xihu1.jpg
+        overlay_filter: 0.1
   # _pages
   - scope:
       path: ""

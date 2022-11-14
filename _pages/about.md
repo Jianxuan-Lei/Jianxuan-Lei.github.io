@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "About me"
 author_profile: true
 header:
   overlay_image: xihu1.jpg
@@ -11,6 +10,7 @@ redirect_from:
   - /wordpress.html
 fontsize: 9pt
 ---
+**Abount me**
 
 Hi there! I am Jianxuan Lei, a Ph.D. student in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota Twin Cities. I study industrial relations with a particular focus on:
 

@@ -1,6 +1,5 @@
 ---
 title: 'An Invitation to Industrial Relations'
-layout: single
 date: 2022-10-09
 permalink: /posts/2022/10/industrial-relations/
 toc: true

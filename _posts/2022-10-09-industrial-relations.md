@@ -10,16 +10,14 @@ tags:
 
 This post is a collection of literature in industrial relations (IR), as well as an introduction of IR-related work to readers from the outside. I will continuously update this collection and occasionally write brief reviews for important and interesting work in IR. If you have any suggestions, please feel free to contact me via email.
 
-What is industrial relations?
-------
+## What is industrial relations?
 Budd, J. W. (2010). Labor relations: Striking a balance. New York, NY: McGraw-Hill Irwin.
 
 Hyman, R. (1975). What is industrial relations? A Marxist introduction. Palgrave Macmillan, London.
 
 Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory in industrial relations: the contested role of worker representation. Socio-Economic Review, 13(1), 157-184.
 
-What do unions do in the U.S.?
-------
+## What do unions do in the U.S.?
 Artz, B., Blanchflower, D. G., & Bryson, A. (2022). Unions increase job satisfaction in the United States. Journal of Economic Behavior & Organization, 203, 173-188.
 
 Budd, J. W. (1996). Union wage determination in Canadian and US manufacturing, 1964–1990: A comparative analysis. ILR Review, 49(4), 673-689.
@@ -42,8 +40,7 @@ VanHeuvelen, T., & Brady, D. (2022). Labor unions and American poverty. ILR Revi
 
 VanHeuvelen, T. (2018). Moral economies or hidden talents? A longitudinal analysis of union decline and wage inequality, 1973–2015. Social Forces, 97(2), 495-530.
 
-What do unions do in China?
-------
+## What do unions do in China?
 Budd, J. W., Chi, W., Wang, Y., & Xie, Q. (2014). What do unions in China do? Provincial-level evidence on wages, employment, productivity, and economic output. Journal of Labor Research, 35(2), 185-204.
 
 Chen, F. (2003). Between the state and labour: The conflict of Chinese trade unions' double identity in market reform. The China Quarterly, 176, 1006-1028.
@@ -68,8 +65,7 @@ Yao, Y., & Zhong, N. (2013). Unions and workers’ welfare in Chinese firms. Jou
 
 Zhuang, W., & Chen, F. (2015). “Mediate First”: The revival of mediation in labour dispute resolution in China. The China Quarterly, 222, 380-402.
 
-Trade unions and politics
-------
+## Trade unions and politics
 Anner, M., & Liu, X. (2016). Harmonious unions and rebellious workers: A study of wildcat strikes in Vietnam. ILR review, 69(1), 3-28.
 
 Budd, J. W., & Lamare, J. R. (2021). The importance of political systems for trade union membership, coverage and influence: Theory and comparative evidence. British Journal of Industrial Relations, 59(3), 757-787.
@@ -90,8 +86,7 @@ Lamare, J. R., & Budd, J. W. (2022). The relative importance of industrial relat
 
 Sojourner, A. J. (2013). Do unions promote members' electoral office holding? Evidence from correlates of state legislatures' occupational shares. ILR Review, 66(2), 467-486.
 
-Trade unions and gender
-------
+## Trade unions and gender
 Budd, J. W., & Mumford, K. (2004). Trade unions and family-friendly policies in Britain. ILR Review, 57(2), 204-222.
 
 Lurie, L. (2014). Do unions promote gender equality. Duke J. Gender L. & Pol'y, 22, 89.
@@ -100,14 +95,12 @@ Park, T. Y., Lee, E. S., & Budd, J. W. (2019). What do unions do for mothers? Pa
 
 Williamson, S., & Baird, M. (2014). Gender equality bargaining: Developing theory and practice. Journal of Industrial Relations, 56(2), 155-169.
 
-Trade unions and immigrants
-------
+## Trade unions and immigrants
 Alberti, G., Holgate, J., & Tapia, M. (2013). Organising migrants as workers or as migrant workers? Intersectionality, trade unions and precarious work. The International Journal of Human Resource Management, 24(22), 4132-4148.
 
 Bedaso, F. J., Jirjahn, U., & Goerke, L. (2022). Immigrants and Trade Union Membership: Does Integration into Society and Workplace Play a Moderating Role? (No. 1169). GLO Discussion Paper.
 
-Conflict and dispute resolution
-------
+## Conflict and dispute resolution
 Avgar, A. C. (2021). Relational exchange in non-union firms: A configurational framework for workplace dispute resolution and voice. ILR Review, 74(3), 607-636.
 
 Budd, J. W., Colvin, A. J., & Pohler, D. (2020). Advancing dispute resolution by understanding the sources of conflict: Toward an integrated framework. ILR Review, 73(2), 254-280.
@@ -122,8 +115,7 @@ Colvin, A. J. (2011). An empirical study of employment arbitration: Case outcome
 
 Lipsky, D. B., Avgar, A. C., & Lamare, J. R. (2020). Organizational conflict resolution and strategic choice: Evidence from a survey of Fortune 1000 firms. ILR Review, 73(2), 431-455.
 
-Intersectionality
-------
+## Intersectionality
 Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological theory, 28(2), 129-149.
 
 Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. Signs: Journal of Women in Culture and Society, 38(4), 785-810.
@@ -134,8 +126,7 @@ Lee, T. L., & Tapia, M. (2021). Confronting race and other social identity erasu
 
 Suzuki, S., Morris, S. L., & Johnson, S. K. (2021). Using QuantCrit to advance an anti-racist developmental science: Applications to mixture modeling. Journal of Adolescent Research, 36(5), 535-560.
 
-Political theory of work
-------
+## Political theory of work
 Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books. [(Book Reivew)](https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/)
 
 Marx, K. (2004). Capital: A critique of political economy (Vol. 1). Penguin Classics.

@@ -10,7 +10,7 @@ tags:
 ---
 This post is a collection of literature in industrial relations (IR), as well as an introduction of IR-related work to readers from the outside. I will continuously update this collection and occasionally write brief reviews for important and interesting work in IR. If you have any suggestions, please feel free to contact me via email.
 
-## What is industrial relations?
+# What is industrial relations?
 Budd, J. W. (2010). Labor relations: Striking a balance. New York, NY: McGraw-Hill Irwin.
 
 Hyman, R. (1975). What is industrial relations? A Marxist introduction. Palgrave Macmillan, London.
@@ -19,7 +19,7 @@ Kaufman, B. E. (2003). John R. Commons and the Wisconsin School on industrial re
 
 Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory in industrial relations: the contested role of worker representation. Socio-Economic Review, 13(1), 157-184.
 
-## What do unions do in the U.S.?
+# What do unions do in the U.S.?
 Artz, B., Blanchflower, D. G., & Bryson, A. (2022). Unions increase job satisfaction in the United States. Journal of Economic Behavior & Organization, 203, 173-188.
 
 Budd, J. W. (1996). Union wage determination in Canadian and US manufacturing, 1964–1990: A comparative analysis. ILR Review, 49(4), 673-689.

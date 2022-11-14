@@ -2,6 +2,9 @@
 layout: archive
 title: "Research"
 permalink: /publications/
+header:
+  overlay_image: xihu1.jpg
+  overlay_filter: 0.1
 author_profile: true
 ---
 

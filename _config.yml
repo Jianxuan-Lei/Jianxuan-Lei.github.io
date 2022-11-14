@@ -230,6 +230,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      header:
+        overlay_image: xihu1.jpg
+        overlay_filter: 0.1
   # _portfolio
   - scope:
       path: ""

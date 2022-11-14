@@ -15,6 +15,8 @@ Budd, J. W. (2010). Labor relations: Striking a balance. New York, NY: McGraw-Hi
 
 Hyman, R. (1975). What is industrial relations? A Marxist introduction. Palgrave Macmillan, London.
 
+Kaufman, B. E. (2003). John R. Commons and the Wisconsin School on industrial relations strategy and policy. ILR Review, 57(1), 3-30.
+
 Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory in industrial relations: the contested role of worker representation. Socio-Economic Review, 13(1), 157-184.
 
 ## What do unions do in the U.S.?

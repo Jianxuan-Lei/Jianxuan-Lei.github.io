@@ -3,7 +3,7 @@ title: "To be added"
 collection: teaching
 type: "Course Type"
 permalink: /teaching/2022-fall-teaching
-excerpt: '123'
+excerpt: 'Something'
 venue: "University 1, Department"
 date: 2022-10-09
 location: "City, Country"

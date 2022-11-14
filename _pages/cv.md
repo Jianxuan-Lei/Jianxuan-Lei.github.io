@@ -10,4 +10,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf) to view or download.
+Click [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf) to view or download my CV.

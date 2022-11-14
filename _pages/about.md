@@ -4,7 +4,7 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 header:
-  overlay_image: xihu.jpg
+  overlay_image: xihu1.jpg
   overlay_filter: 0.5
 redirect_from: 
   - /wordpress/

@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 header:
   overlay_image: xihu1.jpg
-  overlay_filter: 0.7
+  overlay_filter: 0.2
 redirect_from: 
   - /wordpress/
   - /wordpress.html

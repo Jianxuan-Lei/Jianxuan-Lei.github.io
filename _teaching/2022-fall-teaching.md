@@ -8,6 +8,8 @@ date: 2022-10-09
 location: "City, Country"
 ---
 
+Course Type, University 1, Department, 2022
+
 This is a description of a teaching experience. 
 
 Heading 1

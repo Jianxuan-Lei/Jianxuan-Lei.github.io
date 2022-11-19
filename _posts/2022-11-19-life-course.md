@@ -13,7 +13,7 @@ Before turning to anything substantial, I think it is necessary to discuss why I
 
 Second, I am convinced that the life course pespective is *the way* one wishes to think about work and life. This is my personal belief, and you may disagree. Yet it is true that many industrial relations scholars have an issue with the trend to individualize, psychologize, and de-contextualize the study of work (e.g., Barry & Wilkinson, 2022; Budd 2020; Kaufman, 2020). I haven even heard a sarcastic quote that "you can study people's work and pretend that history never happened." This trend is obviously troublesome, as it creates a hegemony to justify problemtical institutions and blame victims. Nonetheless, I have struggled to think about what research might be done to combat this trend, while appreciating many insights and mertis from micro, psychological studies of work (e.g., organizational behavior).
 
-The life course perspective seems to provide an answer to me, which are illustrated in the principles and concepts discussed below. These principles and concepts are inspring, as they 
+The life course perspective seems to provide an answer to me, which is illustrated in the principles and concepts discussed below. These principles and concepts are inspiring, because they connect social strucutres and individuals along the timelines of history.
 
 ## Principles of the life course perspective
 

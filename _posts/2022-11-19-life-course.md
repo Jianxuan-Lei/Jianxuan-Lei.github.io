@@ -17,13 +17,13 @@ The life course perspective seems to provide an answer to me, because it connect
 
 ## Principles of the life course perspective
 
-### Historical Time and Place
+### Historical time and place
 
-### Timing in Lives
+### Timing in lives
 
-### Importance of Agency and Constraint
+### Agency and constrained choices
 
-### Linked Lives
+### Linked lives
 
 ## Key concepts in the life course studies
 

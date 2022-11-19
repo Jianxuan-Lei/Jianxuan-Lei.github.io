@@ -15,8 +15,9 @@ Second, I am convinced that the life course pespective is *the way* one wishes t
 
 ## Principles of the life course perspective
 
-## Key concepts in the life course studies (continuously updated)
+## Key concepts in the life course studies
 
+## Key methodologies in the life course studies
 
 ## References
 Barry, M., & Wilkinson, A. (2022). Employee voice, psychologisation and human resource management (HRM). Human Resource Management Journal, 32(3), 631-646.

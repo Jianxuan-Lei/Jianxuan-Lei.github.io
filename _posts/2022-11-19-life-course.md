@@ -16,9 +16,8 @@ Second, I am convinced that the life course pespective is *the way* one wishes t
 The life course perspective seems to provide an answer to me, because *it connects social strucutres with individual experiences along the timelines of history*. This may sound vague for readers who are not familiar with the perspective. Therefore, to elaborate, I decide to re-organize my notes by presenting the key principles, concepts, and methodologies in the life course studies. **Principles**, because the life course perspective is more about epistemology instead of a particular theory. **Concepts**, because they are the building blocks of the life course perspective. **Methodologies**, because they speak to how to conduct life course studies. Since the life course perspective is broad, fluid, and flexible, it is not likely that my notes will cover all the important aspects. Yet I will try to continuously update my understanding here.
 
 ## Principles of the life course perspective
-The life course perspetive in sociology emphasizes the influence of social institutions, structures, and public policies on individual lives (Kohli, 2007). Rather than focusing on only macro or micro factors, the life course perspective embeds personal experiences in the broad social contexts. It further highlights the importance of social timing, which refers to the ways that age shapes whether, when, how, and to what end one's experience is shaped by historical events (Carr, 2018).
+The life course perspetive in sociology emphasizes the influence of social institutions, structures, and public policies on individual lives (Kohli, 2007). Rather than focusing on only macro or micro factors, the life course perspective embeds personal experiences in the broad social context. It further highlights the importance of social timing, which refers to the ways that age shapes whether, when, how, and to what end one's experience is shaped by social and historical context (Carr, 2018).
 
-connects macro factors (e.g., ) with micro factors (e.g., human psychology)
 
 ### Historical time and place
 

@@ -20,15 +20,16 @@ The life course perspetive emphasizes the influence of social institutions, stru
 
 While sociologists have adopted a variety of conceptual frames for studying the life course, Elder's (1994) articulation is arguably the most influential. Conceptually, Elder's paradigm underlines four key principles: (1) lives are embedded in and shaped by historical context; (2) the meaning and impact of historical context is contingent on the timing of lives; (3) individuals construct their own lives through their choices and actions, yet within the constraints of historical and social circumstances, and (4) lives are "linked" through social relationships. In addition to these four well-recognized principles, recent sociological studies have identified intersectionality—the emphasis on identity differences and similarities—as a fifth principle (Cho et al., 2013; Choo & Ferree, 2010; Fan & Moen, 2022). In what follows, I will briefly explain the meaning of each of the five principles.
 
-### 1. Historical time and place
+### Historical time and place
+The life course of individuals is shaped by historical context, both temporally and spatially.
 
-### 2. Timing in lives
+### Timing in lives
 
-### 3. Agency and constrained choices
+### Agency and constrained choices
 
-### 4. Linked lives
+### Linked lives
 
-### 5. Intersectionality
+### Intersectionality
 
 ## Key concepts in the life course studies
 

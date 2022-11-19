@@ -26,7 +26,7 @@ The life course of individuals is shaped by historical context, both temporally 
 The spatial dimension of historical context highlights the importance of place in shaping individual lives. Place can be defined as broadly as one’s nation, or as narrowly as one’s neighborhood. Research has shown that both nation-level charactesitics (e.g., economic development and cultural values) and neighborhood characteristics (e.g., social integration, poverty, and crime) can affect individauls' attitudes, beliefs, behaviors, and life course outcomes (Sampson et al., 2002). For instance, the COVID-19 may impact individuals in China and the U.S. in dramatically different ways. While historical time or place are hardly destiny, they do play essential roles in shaping one’s social locations, interpersonal relations, and life trajectories (Carr, 2018).
 
 ### Timing of lives
-The shaping power of historical context is contingent on when it occurs in a person’s life, i.e., the timing of lives. However, instead of focusing on biological age, the life course perspective highlights the importance of social timing—the incidence, duration, and sequence of roles throughout the life course (Elder, 1994). Aging is thus viewed as a series of role transitions rather than as a single event or passage of time. Accordingly, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992).
+The shaping power of historical context is contingent on when it occurs in a person’s life, i.e., the timing of lives. However, instead of focusing on biological age, the life course perspective highlights the importance of social timing—the incidence, duration, and sequence of roles throughout the life course (Elder, 1994). Aging is further viewed as a series of role transitions rather than as a single event or passage of time. According to this view, it is the role trajectories—the way roles are played out over the life course—that matter for individual outcomes. For example, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992). Similarly, knowing a man's income at any one point in time may be less useful than knowing the flow and patterning of income throughout his career (Frech & Damaske, 2019).
 
 ### Agency and constrained choices
 
@@ -56,6 +56,8 @@ Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociologica
 Elder Jr, G. H. (1994). Time, human agency, and social change: Perspectives on the life course. Social Psychology Quarterly, 4-15.
 
 Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
+
+Frech, A., & Damaske, S. (2019). Men’s income trajectories and physical and mental health at midlife. American Journal of Sociology, 124(5), 1372-1412.
 
 George, L. K. (2014). Taking time seriously: A call to action in mental health research. Journal of Health and Social Behavior, 55(3), 251-264.
 

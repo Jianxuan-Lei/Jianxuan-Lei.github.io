@@ -7,7 +7,7 @@ tags:
   - Sociology
   - Work
 ---
-This post is a collection of notes from Dr. Phyllis Moen's seminar *Topics in Life Course: Work and Well-Being in Turbulent Times* at the University of Minnesota.
+This post is a summary of notes I took for Prof. Phyllis Moen's doctoral seminar *Topics in Life Course: Work and Well-Being in Turbulent Times* at the University of Minnesota, Fall 2020.
 
 "You can study people's work and pretend that history never happened."
 

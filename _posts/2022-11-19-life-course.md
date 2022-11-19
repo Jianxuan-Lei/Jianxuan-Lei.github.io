@@ -27,7 +27,11 @@ The life course perspective seems to provide an answer to me, because *it connec
 
 ## Key concepts in the life course studies
 
+TBA
+
 ## Key methodologies in the life course studies
+
+TBA
 
 ## References
 Barry, M., & Wilkinson, A. (2022). Employee voice, psychologisation and human resource management (HRM). Human Resource Management Journal, 32(3), 631-646.

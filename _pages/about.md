@@ -22,6 +22,7 @@ My research employs an interdisciplinary perspective, informed by economics, soc
 ## Resources
 * Industrial Relations
   * [An invitation to industrial relations](https://jianxuan-lei.github.io/posts/2022/10/industrial-relations/)
+  * [A Note on the Life Course Perspective in Sociology](https://jianxuan-lei.github.io/posts/2022/11/life-course/)
 
 * Stata
   * [Dummy out categorical variables](https://jianxuan-lei.github.io/posts/2022/10/dummyout/) (Stata command)

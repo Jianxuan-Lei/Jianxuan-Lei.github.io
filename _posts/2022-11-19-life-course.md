@@ -7,7 +7,7 @@ tags:
   - Sociology
   - Work
 ---
-This post is a summary of notes for Prof. [Phyllis Moen](https://cla.umn.edu/about/directory/profile/phylmoen)'s doctoral seminar *Topics in Life Course: Work and Well-Being in Turbulent Times* at the University of Minnesota, Fall 2022.
+This post contains my notes for Prof. [Phyllis Moen](https://cla.umn.edu/about/directory/profile/phylmoen)'s doctoral seminar *Topics in Life Course: Work and Well-Being in Turbulent Times* at the University of Minnesota, Fall 2022.
 
 "You can study people's work and pretend that history never happened."
 

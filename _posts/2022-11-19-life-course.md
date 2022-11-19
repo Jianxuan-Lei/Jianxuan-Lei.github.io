@@ -26,7 +26,7 @@ The life course of individuals is shaped by historical context, both temporally 
 The spatial dimension of historical context highlights the importance of place in shaping individual lives. Place can be defined as broadly as one’s nation, or as narrowly as one’s neighborhood. Research has shown that both nation-level charactesitics (e.g., economic development and cultural values) and neighborhood characteristics (e.g., social integration, poverty, and crime) can affect individauls' attitudes, beliefs, behaviors, and life course outcomes (Sampson et al., 2002). For instance, the COVID-19 may impact individuals in China and the U.S. in dramatically different ways. While historical time or place are hardly destiny, they do play essential roles in shaping one’s social locations, interpersonal relations, and life trajectories (Carr, 2018).
 
 ### Timing of lives
-The shaping power of historical context is contingent on when it occurs in a person’s life, i.e., the timing of lives. However, instead of focusing on biological time like age, the life course perspective highlights the importance of social timing.
+The shaping power of historical context is contingent on when it occurs in a person’s life, i.e., the timing of lives. However, instead of focusing on biological age, the life course perspective highlights the importance of social timing—the incidence, duration, and sequence of roles throughout the life course (Elder, 1994). Aging is thus viewed as a series of role transitions rather than as a single event or passage of time. Accordingly, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992).
 
 ### Agency and constrained choices
 
@@ -62,5 +62,7 @@ George, L. K. (2014). Taking time seriously: A call to action in mental health r
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
 
 Kohli, M. (2007). The institutionalization of the life course: Looking back to look ahead. Research in human development, 4(3-4), 253-271.
+
+Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women's multiple roles and health. American Journal of Sociology, 97(6), 1612-1638.
 
 Sampson, R. J., Morenoff, J. D., & Gannon-Rowley, T. (2002). Assessing" neighborhood effects": Social processes and new directions in research. Annual Review of Sociology, 443-478.

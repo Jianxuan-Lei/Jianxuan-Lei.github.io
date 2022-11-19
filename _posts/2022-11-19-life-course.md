@@ -21,7 +21,9 @@ The life course perspetive emphasizes the influence of social institutions, stru
 While sociologists have adopted a variety of conceptual frames for studying the life course, Elder's (1994) articulation is arguably the most influential. Conceptually, Elder's paradigm underlines four key principles: (1) lives are embedded in and shaped by historical context; (2) the meaning and impact of historical context is contingent on the timing of lives; (3) individuals construct their own lives through their choices and actions, yet within the constraints of historical and social circumstances, and (4) lives are "linked" through social relationships. In addition to these four well-recognized principles, recent sociological studies have identified intersectionality—the emphasis on identity differences and similarities—as a fifth principle (Cho et al., 2013; Choo & Ferree, 2010; Fan & Moen, 2022). In what follows, I will briefly explain the meaning of each of the five principles.
 
 ### Historical time and place
-The life course of individuals is shaped by historical context, both temporally and spatially. The temporal dimension of historical context can be understood as a cohort effect and a period effect. The cohort effect represents the influence of differences in birth year, which expose individuals to different historical worlds, with their constraints and options. In other words, social change differentiates the life patterns of successive cohorts, such as older and younger women before World War 11 (Elder, 1994).
+The life course of individuals is shaped by historical context, both temporally and spatially. The temporal dimension of historical context can be understood as a cohort effect and a period effect. The *cohort effect* represents the influence of differences in birth year, which expose individuals to different historical worlds, with their constraints and options. In other words, social change differentiates the life patterns of successive cohorts, such as older and younger women before World War II (Elder, 1994). By contrast, the *period effect* represents the influence of a social event on changing pre-existing patterns or norms. It affects people of all ages, although it may do so to varying degrees (George, 2014). For example, COVID-19 has changed both old and young people's understanding of how work can be organized, e.g., in-person and remote work.
+
+
 
 ### Timing in lives
 
@@ -53,6 +55,8 @@ Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociologica
 Elder Jr, G. H. (1994). Time, human agency, and social change: Perspectives on the life course. Social Psychology Quarterly, 4-15.
 
 Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
+
+George, L. K. (2014). Taking time seriously: A call to action in mental health research. Journal of Health and Social Behavior, 55(3), 251-264.
 
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
 

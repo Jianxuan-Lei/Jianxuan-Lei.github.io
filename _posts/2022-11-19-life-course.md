@@ -16,6 +16,9 @@ Second, I am convinced that the life course pespective is *the way* one wishes t
 The life course perspective seems to provide an answer to me, because *it connects social strucutres with individual experiences along the timelines of history*. This may sound vague for readers who are not familiar with the perspective. Therefore, to elaborate, I decide to re-organize my notes by presenting the key principles, concepts, and methodologies in the life course studies. **Principles**, because the life course perspective is more about epistemology instead of a particular theory. **Concepts**, because they are the building blocks of the life course perspective. **Methodologies**, because they speak to how to conduct life course studies. Since the life course perspective is broad, fluid, and flexible, it is not likely that my notes will cover all the important aspects. Yet I will try to continuously update my understanding here.
 
 ## Principles of the life course perspective
+The life course perspetive in sociology emphasizes the influence of social institutions, structures, and public policies on individual lives (Kohli, 2007). Rather than focusing on only macro or micro factors, the life course perspective embeds personal experiences in the broad social contexts. It further highlights the importance of social timing, which refers to the ways that age shapes whether, when, how, and to what end one's experience is shaped by historical events (Carr, 2018).
+
+connects macro factors (e.g., ) with micro factors (e.g., human psychology)
 
 ### Historical time and place
 
@@ -38,4 +41,10 @@ Barry, M., & Wilkinson, A. (2022). Employee voice, psychologisation and human re
 
 Budd, J. W. (2020). The psychologisation of employment relations, alternative models of the employment relationship, and the OB turn. Human Resource Management Journal, 30(1), 73-83.
 
+Carr, D. (2018). The linked lives principle in life course studies: Classic approaches and contemporary advances. In Social networks and the life course (pp. 41-63). Springer, Cham.
+
+Elder Jr, G. H. (1994). Time, human agency, and social change: Perspectives on the life course. Social Psychology Quarterly, 4-15.
+
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
+
+Kohli, M. (2007). The institutionalization of the life course: Looking back to look ahead. Research in human development, 4(3-4), 253-271.

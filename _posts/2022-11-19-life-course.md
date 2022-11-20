@@ -52,7 +52,7 @@ Finally, the third approach regards intersectionality as shaping the entire soci
 ### Cumulative advantages and disadvantages
 Dannefer (2020) defines cumulative advantages and disadvantages as the systemic tendency for interindividual divergence in a given characteristic to increase with the passage of time. The author makes a quite strong statement that "processes generating tendencies toward cumulative advantages and disadvantages ... are inherent, law-like features of social life", since they are "a standard part of the operation of society." (p. 1251).
 
-Some seminar participants have a problem with this statement, as they have seen many things changed and improved over time.
+Some seminar participants had a problem with this claim, as they had seen many things changed and improved over time (e.g., women's social, economic, and political right). Some other participants, including one of Dannerfer's advisee, defended this statement by emphasizing the typical ways human psychology tends to work (e.g., typifying and labeling). From the principle of constrained choices, I think both groups are correct.
 
 
 ### Work identity

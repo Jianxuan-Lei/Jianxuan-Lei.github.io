@@ -45,8 +45,7 @@ The study of life course is incomplete without the principle of intersectionalit
 
 The second approach sees intersectionality as a process: highlighting power as relational, seeing the interactions among variables as multiplying oppressions at various points of intersection, and drawing attention to unmarked groups. For instance, Badawy & Schieman (2021) find that schedule control, which is often conceptualized as a valuable job resource, exacerbates the effect of job pressure on role blurring for women but not for men indeed. This has something to do with the broader cultural expectations and pressures on women to devote themselves to family and domestic activities, despite women's rising participation in the labor force.
 
-Finally, the third approach regards intersectionality as shaping the entire social system. This approach pushes analysis away from associating specific inequalities with specific formal and informal institutions. Instead, it looks for processes that are fully interactive, historically co-determining, and complex.
-
+Finally, the third approach regards intersectionality as shaping the entire social system. This approach pushes analysis away from associating specific inequalities with specific formal and informal institutions. Instead, it looks for processes that are fully interactive, historically co-determining, and complex. In my own [research](https://jianxuan-lei.github.io/publication/2022-11-02-women-right-to-work), I find that women's confinement to exploitative occupations and family work in the eighteenth and nineteenth centuries was largely due to a complex interplay of cultural, religious, and political factors.
 
 ## Key concepts in the life course studies
 

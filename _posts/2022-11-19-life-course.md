@@ -36,7 +36,7 @@ While the life course persepctive puts a great emphasis on social structures, it
 Yet freedom of choice is not distributed evenly throughout the population. Persons with fewer economic resources have fewer opportunities to seek out and pursue desirable options, while characteristics such as age, race, gender, physical ability status, sexual orientation and religion may further create obstacles for some individuals (Carr, 2018). More fundamentally, the scope of personal agency has been prescribed by social institutions and historical stages. What is to be talked about, to be pursued, and to be transformed has been implicitly stipulated. As Karl Marx (1926) declares, "men make their own history, but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under circumstances directly encountered, given and transmitted from the past. The tradition of all the dead generations weighs like a nightmare on the brain of the living."
 
 ### Linked lives
-
+Life course is not experienced independently by individuals. Instead, as Elder (1994) notes, human lives are typically embedded in social relationships with kin and friends across the life span. Social regulation and support occur in part through these relationships. Processes of this kind are expressed across the life cycle of socialization, behavioral exchange, and generational succession. The misfortune and the opportunity of adult children, as well as their personal problems, are thus intergenerational.
 
 ### Intersectionality
 

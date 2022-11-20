@@ -33,6 +33,7 @@ Aging is further viewed as a series of role transitions rather than as a single 
 ### Agency and constrained choices
 While the life course persepctive puts a great emphasis on social structures, it also recognizes that human beings can take actions and make decisions, individually and collectively, that affect their life pathways and outcomes (Settersten, 2020). This human agency is embodied in the pre-reflective capacity to defy social dictates, in the ability to innovate when routines break down, in the capacity to act within socially prescribed role expectations, and in the retrospective analysis of decisions made at turning points and transitions (Hitlin & Elder, 2007). Morever, human agency in the life course persepctive is construed in social relations, which does not merely rely on individual's own cognitive and emotional reappraisal (Thoits, 2006).
 
+Yet freedom of choice is not distributed evenly throughout the population. Persons with fewer economic resources have fewer opportunities to seek out and pursue desirable options, while characteristics such as age, race, gender, physical ability status, sexual orientation and religion may further create obstacles for some individuals (Carr, 2018). More fundamentally, the scope of personal agency has been prescribed by social institutions and historical stages. What is to be talked about, to be pursued, and to be transformed has been implicitly stipulated. As Karl Marx (1926) famously asserts, "men make their own history, but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under circumstances directly encountered, given and transmitted from the past. The tradition of all the dead generations weighs like a nightmare on the brain of the living"
 
 
 ### Linked lives
@@ -75,6 +76,8 @@ Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a ne
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
 
 Kohli, M. (2007). The institutionalization of the life course: Looking back to look ahead. Research in human development, 4(3-4), 253-271.
+
+Marx, K. (1926). The Eighteenth Brumaire of Louis Bonaparte. International Publishers.
 
 Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women's multiple roles and health. American Journal of Sociology, 97(6), 1612-1638.
 

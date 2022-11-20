@@ -55,7 +55,7 @@ Dannefer (2020) defines cumulative advantages and disadvantages as the systemic 
 Some seminar participants had a problem with this claim, as they had seen many things changed and improved over time (e.g., women's social, economic, and political right). Some other participants, including one of Dannerfer's advisee, defended his claim by emphasizing the typical ways human psychology tends to work (e.g., typifying and labeling). From the principle of agency and constrained choices, I think both groups are correct: human agency challenges problemtic social institutions, yet human agency is also prescribed by social institutions. For example, Fraser (2013) notes how day care centers, once a remarkable achivement of the second-wave feminist movement, have gradully become degraded and stigmized. Yet new effort is then generated to combat this trend and seek alternatives (see my [book review](https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/) if interested).
 
 ### Work identity
-
+Mortimer et al. (2015) explores why work identity—the conscious awareness of oneself as a worker—has declined over time. Their main argument is that more insecure and less rewarding jobs for young workers may diminish the salience of work identity. Meanwhile, with more youth attending colleges, securing a "real job" becomes an increasingly distant phenomenon, further retarding the formation of work identity.
 
 ### TBA
 
@@ -97,6 +97,8 @@ Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a ne
 Johnson, J. E., & Taylor, E. J. (2019). The long run health consequences of rural‐urban migration. Quantitative Economics, 10(2), 565-606.
 
 Lahey, J. N. (2017). Understanding why black women are not working longer. In Women working longer: Increased employment at older ages (pp. 85-109). University of Chicago Press.
+
+Mortimer, J. T., Lam, J., & Lee, S. (2015). Transformation, erosion, or disparity in work identity? Challenges during the contemporary transition. The Oxford handbook of identity development, 319-36.
 
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
 

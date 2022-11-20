@@ -18,7 +18,7 @@ The life course perspective seems to provide an answer to me, because *it connec
 ## Principles of the life course perspective
 The life course perspetive emphasizes the influence of social institutions, structures, and public policies on individual lives (Kohli, 2007). Rather than focusing on only macro or micro factors, the life course perspective embeds personal experiences in the broad social context. It further highlights the importance of social timing, which refers to the ways that age shapes whether, when, how, and to what end one's experience is shaped by social and historical context (Carr, 2018). 
 
-While sociologists have adopted a variety of conceptual frames for studying the life course, Elder's (1994) articulation is arguably the most influential. Conceptually, Elder's paradigm underlines four key principles: (1) lives are embedded in and shaped by historical context; (2) the meaning and impact of historical context is contingent on the timing of lives; (3) individuals construct their own lives through their choices and actions, yet within the constraints of historical and social circumstances, and (4) lives are "linked" through social relationships. In addition to these four well-recognized principles, recent sociological studies have identified intersectionality—the emphasis on identity differences and similarities—as a fifth principle (Cho et al., 2013; Choo & Ferree, 2010; Fan & Moen, 2022). In what follows, I will briefly explain the meaning of each of the five principles.
+While sociologists have adopted a variety of conceptual frames for studying the life course, Elder's (1994) articulation is arguably the most influential. Conceptually, Elder's paradigm underlines four key principles: (1) lives are embedded in and shaped by historical context; (2) the meaning and impact of historical context is contingent on the timing of lives; (3) individuals construct their own lives through their choices and actions, yet within the constraints of historical and social circumstances, and (4) lives are "linked" through social relationships. In addition to these four well-recognized principles, recent sociological studies have identified intersectionality—the emphasis on identity differences and similarities—as a fifth principle (Cho et al., 2013; Choo & Ferree, 2010; Fan & Moen, 2022; Homan et al., 2021). In what follows, I will briefly explain the meaning of each of the five principles.
 
 ### Historical time and place
 The life course of individuals is shaped by historical context, both temporally and spatially. The temporal dimension of historical context can be understood as a cohort effect and a period effect. The *cohort effect* represents the influence of differences in birth year, which expose individuals to different historical worlds, with their constraints and options. In other words, social change differentiates the life patterns of successive cohorts, such as older and younger women before World War Ⅱ (Elder, 1994). By contrast, the *period effect* represents the influence of a social event on changing pre-existing patterns or norms. It affects people of all ages, although it may do so to varying degrees (George, 2014). For example, COVID-19 has changed both old and young people's understanding of how work can be organized, e.g., in-person and remote work.
@@ -31,6 +31,7 @@ The shaping power of historical context is contingent on when it occurs in a per
 Aging is further viewed as a series of role transitions rather than as a single event or passage of time. According to this view, it is the role trajectories—the way roles are played out over the life course—that matter for individual outcomes. For instance, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992). Similarly, knowing a man's income at any one point in time may be less useful than knowing the flow and patterning of income throughout his career (Frech & Damaske, 2019).
 
 ### Agency and constrained choices
+
 
 ### Linked lives
 
@@ -64,6 +65,8 @@ Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mi
 Frech, A., & Damaske, S. (2019). Men’s income trajectories and physical and mental health at midlife. American Journal of Sociology, 124(5), 1372-1412.
 
 George, L. K. (2014). Taking time seriously: A call to action in mental health research. Journal of Health and Social Behavior, 55(3), 251-264.
+
+Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a new direction for health disparities research. Journal of Health and Social Behavior, 62(3), 350-370.
 
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
 

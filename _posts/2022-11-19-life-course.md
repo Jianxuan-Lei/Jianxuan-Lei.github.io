@@ -50,15 +50,16 @@ Finally, the third approach regards intersectionality as shaping the entire soci
 ## Key concepts in the life course studies
 
 ### Cumulative advantages and disadvantages
-TBA
+Dannefer (2020) defines cumulative advantages and disadvantages as the systemic tendency for interindividual divergence in a given characteristic to increase with the passage of time. The author makes a quite strong statement that "processes generating tendencies toward cumulative advantages and disadvantages ... are inherent, law-like features of social life", as they are "a standard part of the operation of society." (p. 1251).
 
 ### Work identity
+
 
 ### TBA
 
 ## Key methodologies in the life course studies
 
-TBA
+### TBA
 
 ## References
 Barry, M., & Wilkinson, A. (2022). Employee voice, psychologisation and human resource management (HRM). Human Resource Management Journal, 32(3), 631-646.
@@ -74,6 +75,8 @@ Carr, D. (2018). The linked lives principle in life course studies: Classic appr
 Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. Signs: Journal of Women in Culture and Society, 38(4), 785-810.
 
 Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological Theory, 28(2), 129-149.
+
+Dannefer, D. (2020). Systemic and reflexive: Foundations of cumulative dis/advantage and life-course processes. The Journals of Gerontology: Series B, 75(6), 1249-1263.
 
 Elder Jr, G. H. (1994). Time, human agency, and social change: Perspectives on the life course. Social Psychology Quarterly, 4-15.
 

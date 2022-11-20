@@ -38,9 +38,14 @@ Yet freedom of choice is not distributed evenly throughout the population. Perso
 ### Linked lives
 Life course is not experienced independently by individuals. As Elder (1994) notes, human lives are typically embedded in social relationships with kin and friends across the life span. Social regulation and support occur in part through these relationships. Processes of this kind are expressed across the life cycle of socialization, behavioral exchange, and generational succession. The misfortune and the opportunity of adult children, as well as their personal problems, are thus intergenerational. For instance, a childhood in the Great Depression often meant hard times, whereas children of World War Ⅱ frequently experienced employed but absent parents. Similarly, children affected by China's one-child policy enjoyed more resrouces, but lacked emotional support from siblings and faced more burden of providing for the aged.
 
-Life course sociologists also recognize that life domains are linked. Even within a single individual, work and family choices affect one another; working full-time may preclude one from being a stay-at-home parent, or intensive parenting demands may prevent one from working as many hours as one would like (Carr, 2018). Moreover, in the context of globalization, links between individual life experiences are often beyond direct social relationships and across geographical boundaries. For example, a strike in the US may bring more investment and jobs to China. 
+Life course sociologists also recognize that life domains are linked. Even within a single individual, work and family choices affect one another; working full-time may preclude one from being a stay-at-home parent, or intensive parenting demands may prevent one from working as many hours as one would like (Carr, 2018). Moreover, in the context of globalization, links between individual life experiences are often beyond direct social relationships and across geographical boundaries. For example, a strike in the US may bring more investment and jobs to China.
 
 ### Intersectionality
+The study of life course is incomplete without the principle of intersectionality. While its precise definition and scope is still debated, scholars have distinguished three approaches of understanding intersectionality in practice: group-centered, process-centered, and system-centered (Cho et al., 2013; Choo & Ferree, 2010). The first, emphasizes placing multiply-marginalized groups and their perspectives at the center of the research. For instance, Badawy & Schieman (2021) find that schedule control, which is often conceptualized as a valuable job resource, exacerbates the effect of job pressure on role blurring for women but not for men. As another example, Lahey (2017) studies how black women's cumulative experiences of occupation, industry, and physical conditions decrease their labor force participation at older ages.
+
+The second, intersectionality as a process, highlights power as relational, seeing the interactions among variables as multiplying oppressions at various points of intersection, and drawing attention to unmarked groups. 
+
+Finally, seeing intersectionality as shaping the entire social system pushes analysis away from associating specific inequalities with unique institutions, instead looking for processes that are fully interactive, historically co-determining, and complex.
 
 
 ## Key concepts in the life course studies
@@ -53,6 +58,8 @@ TBA
 
 ## References
 Barry, M., & Wilkinson, A. (2022). Employee voice, psychologisation and human resource management (HRM). Human Resource Management Journal, 32(3), 631-646.
+
+Badawy, P. J., & Schieman, S. (2021). Controlling or channeling demands? How schedule control influences the link between job pressure and the work-family interface. Work and Occupations, 48(3), 320-352.
 
 Budd, J. W. (2020). The psychologisation of employment relations, alternative models of the employment relationship, and the OB turn. Human Resource Management Journal, 30(1), 73-83.
 
@@ -75,6 +82,8 @@ George, L. K. (2014). Taking time seriously: A call to action in mental health r
 Hitlin, S., & Elder Jr, G. H. (2007). Time, self, and the curiously abstract concept of agency. Sociological Theory, 25(2), 170-191.
 
 Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a new direction for health disparities research. Journal of Health and Social Behavior, 62(3), 350-370.
+
+Lahey, J. N. (2017). Understanding why black women are not working longer. In Women working longer: Increased employment at older ages (pp. 85-109). University of Chicago Press.
 
 Kaufman, B. E. (2020). The real problem: The deadly combination of psychologisation, scientism, and normative promotionalism takes strategic human resource management down a 30‐year dead end. Human Resource Management Journal, 30(1), 49-72.
 

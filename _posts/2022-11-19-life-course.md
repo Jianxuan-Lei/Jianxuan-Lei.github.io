@@ -50,7 +50,10 @@ Finally, the third approach regards intersectionality as shaping the entire soci
 ## Key concepts in the life course studies
 
 ### Cumulative advantages and disadvantages
-Dannefer (2020) defines cumulative advantages and disadvantages as the systemic tendency for interindividual divergence in a given characteristic to increase with the passage of time. The author makes a quite strong statement that "processes generating tendencies toward cumulative advantages and disadvantages ... are inherent, law-like features of social life", as they are "a standard part of the operation of society." (p. 1251).
+Dannefer (2020) defines cumulative advantages and disadvantages as the systemic tendency for interindividual divergence in a given characteristic to increase with the passage of time. The author makes a quite strong statement that "processes generating tendencies toward cumulative advantages and disadvantages ... are inherent, law-like features of social life", since they are "a standard part of the operation of society." (p. 1251).
+
+Some seminar participants have a problem with this statement, as they have seen many things changed and improved over time.
+
 
 ### Work identity
 

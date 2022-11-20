@@ -31,7 +31,8 @@ The shaping power of historical context is contingent on when it occurs in a per
 Aging is further viewed as a series of role transitions rather than as a single event or passage of time. According to this view, it is the role trajectories—the way roles are played out over the life course—that matter for individual outcomes. For instance, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992). Similarly, knowing a man's income at any one point in time may be less useful than knowing the flow and patterning of income throughout his career (Frech & Damaske, 2019).
 
 ### Agency and constrained choices
-While the life course persepctive puts a great emphasis on social structures, it also recognizes that human beings can take actions and make decisions, individually and collectively, that affect their life pathways and outcomes (Settersten, 2020).
+While the life course persepctive puts a great emphasis on social structures, it also recognizes that human beings can take actions and make decisions, individually and collectively, that affect their life pathways and outcomes (Settersten, 2020). This human agency is embodied in the pre-reflective capacity to defy social dictates, in the ability to innovate when routines break down, in the capacity to act within socially prescribed role expectations, and in the retrospective
+analysis of decisions made at turning points and transitions (Hitlin & Elder, 2007).
 
 ### Linked lives
 
@@ -65,6 +66,8 @@ Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mi
 Frech, A., & Damaske, S. (2019). Men’s income trajectories and physical and mental health at midlife. American Journal of Sociology, 124(5), 1372-1412.
 
 George, L. K. (2014). Taking time seriously: A call to action in mental health research. Journal of Health and Social Behavior, 55(3), 251-264.
+
+Hitlin, S., & Elder Jr, G. H. (2007). Time, self, and the curiously abstract concept of agency. Sociological Theory, 25(2), 170-191.
 
 Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a new direction for health disparities research. Journal of Health and Social Behavior, 62(3), 350-370.
 

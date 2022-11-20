@@ -54,7 +54,7 @@ TBA
 
 ### Work identity
 
-TBA
+### TBA
 
 ## Key methodologies in the life course studies
 

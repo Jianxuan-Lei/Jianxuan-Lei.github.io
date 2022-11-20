@@ -13,7 +13,7 @@ Before turning to anything substantial, I think it is necessary to discuss why I
 
 Second, I am convinced that the life course pespective is *the way* one wishes to think about work and life. This is my personal belief, and you may disagree. Yet it is true that many industrial relations scholars have an issue with the trend to individualize, psychologize, and de-contextualize the study of work (e.g., Barry & Wilkinson, 2022; Budd 2020; Kaufman, 2020). I have even heard a sarcastic quote that "you can study people's work and pretend that history never happened." This trend is obviously troublesome, as it creates a hegemony to justify problemtical institutions and blame victims. Nonetheless, I have struggled to think about what kind of research might be done to combat this trend, while appreciating many insights and mertis from micro, psychological studies of work (e.g., organizational behavior).
 
-The life course perspective seems to provide an answer to me, because *it connects social strucutres with individual experiences along the timelines of history*. This may sound vague to readers who are not familiar with the perspective. Therefore, to elaborate, I decide to re-organize my notes by presenting the key principles, concepts, and methodologies in the life course studies. Principles, because the life course perspective is more about epistemology instead of a particular theory. Concepts, because they are the building blocks of the life course perspective. Methodologies, because they speak to how to conduct life course studies. Since the life course perspective is broad, fluid, and flexible, it is not likely that my notes will cover all the important aspects. Yet I will try to continuously update my understanding here.
+The life course perspective seems to provide an answer to me, because *it connects social strucutres with individual experiences along the timelines of history*. This may sound vague to readers who are not familiar with the perspective. Therefore, to elaborate, I decide to re-organize my notes by presenting the key principles, concepts, and methodologies in the life course studies. **Principles**, because the life course perspective is more about epistemology instead of a particular theory. **Concepts**, because they are the building blocks of the life course perspective. **Methodologies**, because they speak to how to conduct life course studies. Since the life course perspective is broad, fluid, and flexible, it is not likely that my notes will cover all the important aspects. Yet I will try to continuously update my understanding here.
 
 ## Principles of the life course perspective
 The life course perspetive emphasizes the influence of social institutions, structures, and public policies on individual lives (Kohli, 2007). Rather than focusing on only macro or micro factors, the life course perspective embeds personal experiences in the broad social context. It further highlights the importance of social timing, which refers to the ways that age shapes whether, when, how, and to what end one's experience is shaped by social and historical context (Carr, 2018). 
@@ -35,10 +35,11 @@ While the life course persepctive puts a great emphasis on social structures, it
 
 Yet freedom of choice is not distributed evenly throughout the population. Persons with fewer economic resources have fewer opportunities to seek out and pursue desirable options, while characteristics such as age, race, gender, physical ability status, sexual orientation and religion may further create obstacles for some individuals (Carr, 2018). More fundamentally, the scope of personal agency has been prescribed by social institutions and historical stages. What is to be talked about, to be pursued, and to be transformed has been implicitly stipulated. As Karl Marx (1926) declares, "men make their own history, but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under circumstances directly encountered, given and transmitted from the past. The tradition of all the dead generations weighs like a nightmare on the brain of the living."
 
-
 ### Linked lives
 
+
 ### Intersectionality
+
 
 ## Key concepts in the life course studies
 

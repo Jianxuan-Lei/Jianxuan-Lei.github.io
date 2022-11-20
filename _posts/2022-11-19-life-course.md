@@ -31,7 +31,7 @@ The shaping power of historical context is contingent on when it occurs in a per
 Aging is further viewed as a series of role transitions rather than as a single event or passage of time. According to this view, it is the role trajectories—the way roles are played out over the life course—that matter for individual outcomes. For instance, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992). Similarly, knowing a man's income at any one point in time may be less useful than knowing the flow and patterning of income throughout his career (Frech & Damaske, 2019).
 
 ### Agency and constrained choices
-
+While the life course persepctive puts a great emphasis on social structures, it also recognizes that human beings can take actions and make decisions, individually and collectively, that affect their life pathways and outcomes (Settersten, 2020).
 
 ### Linked lives
 
@@ -75,3 +75,6 @@ Kohli, M. (2007). The institutionalization of the life course: Looking back to l
 Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A life-course perspective on women's multiple roles and health. American Journal of Sociology, 97(6), 1612-1638.
 
 Sampson, R. J., Morenoff, J. D., & Gannon-Rowley, T. (2002). Assessing" neighborhood effects": Social processes and new directions in research. Annual Review of Sociology, 443-478.
+
+Settersten Jr, R. A., Bernardi, L., Härkönen, J., Antonucci, T. C., Dykstra, P. A., Heckhausen, J., ... & Thomson, E. (2020). Understanding the effects of Covid-19 through a life course lens. Advances in Life Course Research, 45, 100360.
+

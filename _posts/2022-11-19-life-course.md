@@ -31,8 +31,9 @@ The shaping power of historical context is contingent on when it occurs in a per
 Aging is further viewed as a series of role transitions rather than as a single event or passage of time. According to this view, it is the role trajectories—the way roles are played out over the life course—that matter for individual outcomes. For instance, knowing whether or not a woman is employed at any one point in time may be less useful than knowing the duration and patterning of her labor-force participation throughout adulthood (Moen et al., 1992). Similarly, knowing a man's income at any one point in time may be less useful than knowing the flow and patterning of income throughout his career (Frech & Damaske, 2019).
 
 ### Agency and constrained choices
-While the life course persepctive puts a great emphasis on social structures, it also recognizes that human beings can take actions and make decisions, individually and collectively, that affect their life pathways and outcomes (Settersten, 2020). This human agency is embodied in the pre-reflective capacity to defy social dictates, in the ability to innovate when routines break down, in the capacity to act within socially prescribed role expectations, and in the retrospective
-analysis of decisions made at turning points and transitions (Hitlin & Elder, 2007).
+While the life course persepctive puts a great emphasis on social structures, it also recognizes that human beings can take actions and make decisions, individually and collectively, that affect their life pathways and outcomes (Settersten, 2020). This human agency is embodied in the pre-reflective capacity to defy social dictates, in the ability to innovate when routines break down, in the capacity to act within socially prescribed role expectations, and in the retrospective analysis of decisions made at turning points and transitions (Hitlin & Elder, 2007). Morever, human agency in the life course persepctive is construed in social relations, which does not merely rely on individual's own cognitive and emotional reappraisal (Thoits, 2006).
+
+
 
 ### Linked lives
 
@@ -80,4 +81,6 @@ Moen, P., Dempster-McClain, D., & Williams Jr, R. M. (1992). Successful aging: A
 Sampson, R. J., Morenoff, J. D., & Gannon-Rowley, T. (2002). Assessing" neighborhood effects": Social processes and new directions in research. Annual Review of Sociology, 443-478.
 
 Settersten Jr, R. A., Bernardi, L., Härkönen, J., Antonucci, T. C., Dykstra, P. A., Heckhausen, J., ... & Thomson, E. (2020). Understanding the effects of Covid-19 through a life course lens. Advances in Life Course Research, 45, 100360.
+
+Thoits, P. A. (2006). Personal agency in the stress process. Journal of Health and Social Behavior, 47(4), 309-323.
 

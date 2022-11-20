@@ -52,7 +52,7 @@ Finally, the third approach regards intersectionality as shaping the entire soci
 ### Cumulative advantages and disadvantages
 Dannefer (2020) defines cumulative advantages and disadvantages as the systemic tendency for interindividual divergence in a given characteristic to increase with the passage of time. The author makes a quite strong statement that "processes generating tendencies toward cumulative advantages and disadvantages ... are inherent, law-like features of social life", since they are "a standard part of the operation of society." (p. 1251).
 
-Some seminar participants had a problem with this claim, as they had seen many things changed and improved over time (e.g., women's social, economic, and political right). Some other participants, including one of Dannerfer's advisee, defended this statement by emphasizing the typical ways human psychology tends to work (e.g., typifying and labeling). From the principle of constrained choices, I think both groups are correct.
+Some seminar participants had a problem with this claim, as they had seen many things changed and improved over time (e.g., women's social, economic, and political right). Some other participants, including one of Dannerfer's advisee, defended his claim by emphasizing the typical ways human psychology tends to work (e.g., typifying and labeling). From the principle of agency and constrained choices, I think both groups are correct: human agency challenges problemtic social institutions, yet human agency is also prescribed by the social institutions. For example, (Fraser (2013))[https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/] notes how day care centers, once a remarkable achivement of the second-wave feminist movement, have gradully become degraded and stigmized.
 
 
 ### Work identity
@@ -84,6 +84,8 @@ Dannefer, D. (2020). Systemic and reflexive: Foundations of cumulative dis/advan
 Elder Jr, G. H. (1994). Time, human agency, and social change: Perspectives on the life course. Social Psychology Quarterly, 4-15.
 
 Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
+
+Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books.
 
 Frech, A., & Damaske, S. (2019). Men’s income trajectories and physical and mental health at midlife. American Journal of Sociology, 124(5), 1372-1412.
 

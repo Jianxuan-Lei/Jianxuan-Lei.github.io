@@ -57,7 +57,7 @@ Some seminar participants had a problem with this claim, as they had seen many t
 ### Work identity
 Mortimer et al. (2015) explores why work identity—the conscious awareness of oneself as a worker—has declined over time. Their main argument is that more insecure and less rewarding jobs for young workers may diminish the salience of work identity. Meanwhile, with more youth attending colleges, securing a "real job" becomes an increasingly distant phenomenon, further retarding the formation of work identity.
 
-This arguement is not wrong, yet I think it has missed an important aspect—the diminish of the work identity is likely to be accompanied by the rise of other identities.
+The arguement is not wrong, yet I think it has missed an important aspect—the diminish of the work identity is likely to be accompanied by the rise of other identities. This is consistent with the principles of linked lives, by which life experience in one domain influences life experience in other domains.
 
 ### TBA
 

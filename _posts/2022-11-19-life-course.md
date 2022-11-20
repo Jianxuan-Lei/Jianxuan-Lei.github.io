@@ -41,11 +41,11 @@ Life course is not experienced independently by individuals. As Elder (1994) not
 Life course sociologists also recognize that life domains are linked. Even within a single individual, work and family choices affect one another; working full-time may preclude one from being a stay-at-home parent, or intensive parenting demands may prevent one from working as many hours as one would like (Carr, 2018). Moreover, in the context of globalization, links between individual life experiences are often beyond direct social relationships and across geographical boundaries. For example, a strike in the US may bring more investment and jobs to China.
 
 ### Intersectionality
-The study of life course is incomplete without the principle of intersectionality. While its precise definition and scope is still debated, scholars have distinguished three approaches of understanding intersectionality in practice: group-centered, process-centered, and system-centered (Cho et al., 2013; Choo & Ferree, 2010). The first, emphasizes placing multiply-marginalized groups and their perspectives at the center of the research. For instance, Badawy & Schieman (2021) find that schedule control, which is often conceptualized as a valuable job resource, exacerbates the effect of job pressure on role blurring for women but not for men. As another example, Lahey (2017) studies how black women's cumulative experiences of occupation, industry, and physical conditions decrease their labor force participation at older ages.
+The study of life course is incomplete without the principle of intersectionality. While its precise definition and scope is still debated, scholars have distinguished three approaches of understanding intersectionality in practice: group-centered, process-centered, and system-centered (Cho et al., 2013; Choo & Ferree, 2010). The first, emphasizes placing multiply-marginalized groups and their perspectives at the center of the research. For example, Lahey (2017) studies how black women's cumulative experiences of occupation, industry, and physical conditions decrease their labor force participation at older ages.
 
-The second, intersectionality as a process, highlights power as relational, seeing the interactions among variables as multiplying oppressions at various points of intersection, and drawing attention to unmarked groups. 
+The second approach sees intersectionality as a process: highlighting power as relational, seeing the interactions among variables as multiplying oppressions at various points of intersection, and drawing attention to unmarked groups. For instance, Badawy & Schieman (2021) find that schedule control, which is often conceptualized as a valuable job resource, exacerbates the effect of job pressure on role blurring for women but not for men indeed. This has something to do with the broader cultural expectations and pressures on women to devote themselves to family and domestic activities, despite women's rising participation in the labor force.
 
-Finally, seeing intersectionality as shaping the entire social system pushes analysis away from associating specific inequalities with unique institutions, instead looking for processes that are fully interactive, historically co-determining, and complex.
+Finally, the third approach regards intersectionality as shaping the entire social system. This approach pushes analysis away from associating specific inequalities with specific formal and informal institutions. Instead, it looks for processes that are fully interactive, historically co-determining, and complex.
 
 
 ## Key concepts in the life course studies
@@ -82,6 +82,8 @@ George, L. K. (2014). Taking time seriously: A call to action in mental health r
 Hitlin, S., & Elder Jr, G. H. (2007). Time, self, and the curiously abstract concept of agency. Sociological Theory, 25(2), 170-191.
 
 Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a new direction for health disparities research. Journal of Health and Social Behavior, 62(3), 350-370.
+
+Johnson, J. E., & Taylor, E. J. (2019). The long run health consequences of rural‐urban migration. Quantitative Economics, 10(2), 565-606.
 
 Lahey, J. N. (2017). Understanding why black women are not working longer. In Women working longer: Increased employment at older ages (pp. 85-109). University of Chicago Press.
 

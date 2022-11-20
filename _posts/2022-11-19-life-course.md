@@ -55,9 +55,9 @@ Dannefer (2020) defines cumulative advantages and disadvantages as the systemic 
 Some seminar participants had a problem with this claim, as they had seen many things changed and improved over time (e.g., women's social, economic, and political right). Some other participants, including one of Dannerfer's advisee, defended his claim by emphasizing the typical ways human psychology tends to work (e.g., typifying and labeling). From the principle of agency and constrained choices, I think both groups are correct: human agency challenges problemtic social institutions, yet human agency is also prescribed by social institutions. For example, Fraser (2013) notes how day care centers, once a remarkable achivement of the second-wave feminist movement, have gradully become degraded and stigmized. Yet new effort is then generated to combat this trend and seek alternatives (see my [book review](https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/) if interested).
 
 ### Work identity
-Mortimer et al. (2015) explores why work identity—the conscious awareness of oneself as a worker—has declined over time. Their main argument is that more insecure and less rewarding jobs for young workers may diminish the salience of work identity. Meanwhile, with more youth attending colleges, securing a "real job" becomes an increasingly distant phenomenon, further retarding the formation of work identity.
+Mortimer et al. (2015) explores why worker identity—the conscious awareness of oneself as a worker—has declined over time. Their main argument is that more insecure and less rewarding jobs for young workers may diminish the salience of work identity. Meanwhile, with more youth attending colleges, securing a "real job" becomes an increasingly distant phenomenon, further retarding the formation of worker identity.
 
-The arguement is not wrong, yet I think it has missed an important aspect—the diminish of the work identity is likely to be accompanied by the rise of other identities. This is consistent with the principles of linked lives, by which life experience in one domain influences life experience in other domains.
+The arguement is not wrong and can probably receive some empirical support. Yet I think it has missed an important aspect—the diminish of the work identity is likely to be accompanied by the rise of other identities. This is consistent with the principle of linked lives, by which life experience in one domain influences life experience in other domains. In my understanding, the decline of work identity is accompanied by the rise of consumer identity (Ibsen & Tapia, 2017): not only as a consumer of commodities (Lane, 1992), but also captialist culture (Adorno & Bernstein, 2020) and the service provided by welfare states (Fraser, 2013). Furthermore, this is likely to be a artificial ambiguity around the boundary of work and life (Weeks, 2017).
 
 ### TBA
 
@@ -66,6 +66,8 @@ The arguement is not wrong, yet I think it has missed an important aspect—the 
 ### TBA
 
 ## References
+Adorno, T. W., & Bernstein, J. M. (2020). The culture industry: Selected essays on mass culture. Routledge.
+
 Barry, M., & Wilkinson, A. (2022). Employee voice, psychologisation and human resource management (HRM). Human Resource Management Journal, 32(3), 631-646.
 
 Badawy, P. J., & Schieman, S. (2021). Controlling or channeling demands? How schedule control influences the link between job pressure and the work-family interface. Work and Occupations, 48(3), 320-352.
@@ -96,9 +98,13 @@ Hitlin, S., & Elder Jr, G. H. (2007). Time, self, and the curiously abstract con
 
 Homan, P., Brown, T. H., & King, B. (2021). Structural intersectionality as a new direction for health disparities research. Journal of Health and Social Behavior, 62(3), 350-370.
 
+Ibsen, C. L., & Tapia, M. (2017). Trade union revitalisation: Where are we now? Where to next?. Journal of Industrial Relations, 59(2), 170-191.
+
 Johnson, J. E., & Taylor, E. J. (2019). The long run health consequences of rural‐urban migration. Quantitative Economics, 10(2), 565-606.
 
 Lahey, J. N. (2017). Understanding why black women are not working longer. In Women working longer: Increased employment at older ages (pp. 85-109). University of Chicago Press.
+
+Lane, R. E. (1992). Work as "disutility" and money as "happiness": Cultural origins of a basic market error. The Journal of Socio-Economics, 21(1), 43-64.
 
 Mortimer, J. T., Lam, J., & Lee, S. (2015). Transformation, erosion, or disparity in work identity? Challenges during the contemporary transition. The Oxford handbook of identity development, 319-36.
 
@@ -116,3 +122,4 @@ Settersten Jr, R. A., Bernardi, L., Härkönen, J., Antonucci, T. C., Dykstra, P
 
 Thoits, P. A. (2006). Personal agency in the stress process. Journal of Health and Social Behavior, 47(4), 309-323.
 
+Weeks, K. (2017). Down with love: Feminist critique and the new ideologies of work. Women's Studies Quarterly, 45(3/4), 37-58.

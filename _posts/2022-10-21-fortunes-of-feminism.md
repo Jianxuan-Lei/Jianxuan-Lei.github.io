@@ -30,8 +30,6 @@ Fraser’s enquire into the second-wave feminism is inspirational for future res
 
 Fraser’s interrogation of the second-wave feminism is of course not perfect. First, Fraser’s different treatments of redistribution and recognition seems to contrast with the intersectionality theory, in which identity differences are clearly linked to power relations and structural inequality (Cho et al., 2013; Choo & Ferree, 2010). Second, Fraser fails to incorporate a life course perspective in her analysis (Moen et al., 1992). One could easy ask questions such as “what are the struggle and wishes for women who are 20, 40, 60, and 80 years old?” Nevertheless, these deficiencies in Fraser’s work may open up new possibilities for future research.
 
-<br>
-
 ## References
 
 Cho, S. K., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies. In *Theories of race and racism* (pp. 614–624). Routledge. 

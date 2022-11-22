@@ -32,7 +32,7 @@ Fraser’s interrogation of the second-wave feminism is of course not perfect. F
 
 <br>
 
-**References** 
+## References
 
 Cho, S. K., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies. In *Theories of race and racism* (pp. 614–624). Routledge. 
 

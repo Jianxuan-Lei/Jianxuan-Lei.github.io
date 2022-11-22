@@ -3,7 +3,6 @@ title: 'An Invitation to Industrial Relations'
 date: 2022-10-09
 permalink: /posts/2022/10/industrial-relations/
 toc: true
-toc_sticky: true
 tags:
   - Industrial Relations
   - Litreature

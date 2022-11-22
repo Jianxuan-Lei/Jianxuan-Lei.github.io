@@ -2,6 +2,8 @@
 title: 'A Note on the Life Course Perspective in Sociology'
 date: 2022-11-09
 permalink: /posts/2022/11/life-course/
+toc: true
+toc_sticky: true
 tags:
   - Life Course
   - Sociology

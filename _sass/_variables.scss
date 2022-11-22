@@ -121,10 +121,10 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-default      : 200px !default;
-$right-sidebar-width-narrow : 0 !default;
-$right-sidebar-width        : 0 !default;
-$right-sidebar-width-wide   : 0 !default;
+$right-sidebar-width-narrow : 0;
+$right-sidebar-width        : 0;
+$right-sidebar-width-wide   : 0;
+$right-sidebar-def          : 200px;
 
 $susy: (
   columns: 12,

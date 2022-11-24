@@ -94,12 +94,10 @@ Lamare, J. R., & Budd, J. W. (2022). The relative importance of industrial relat
 Sojourner, A. J. (2013). Do unions promote members' electoral office holding? Evidence from correlates of state legislatures' occupational shares. ILR Review, 66(2), 467-486.
 
 ## Industrial relations and identities
-### Intersectionality
+### Intersectionality theory
 Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological theory, 28(2), 129-149.
 
 Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. Signs: Journal of Women in Culture and Society, 38(4), 785-810.
-
-Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
 
 Lee, T. L., & Tapia, M. (2021). Confronting race and other social identity erasures: the case for critical industrial relations theory. ILR Review, 74(3), 637-662.
 
@@ -121,6 +119,9 @@ Frymer, P., & Grumbach, J. M. (2021). Labor unions and white racial politics. Am
 Alberti, G., Holgate, J., & Tapia, M. (2013). Organising migrants as workers or as migrant workers? Intersectionality, trade unions and precarious work. The International Journal of Human Resource Management, 24(22), 4132-4148.
 
 Bedaso, F. J., Jirjahn, U., & Goerke, L. (2022). Immigrants and Trade Union Membership: Does Integration into Society and Workplace Play a Moderating Role? (No. 1169). GLO Discussion Paper.
+
+### Intersectionality research 
+Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
 
 ## Conflict and dispute resolution
 Avgar, A. C. (2021). Relational exchange in non-union firms: A configurational framework for workplace dispute resolution and voice. ILR Review, 74(3), 607-636.

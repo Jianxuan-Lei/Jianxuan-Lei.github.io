@@ -19,7 +19,8 @@ Kaufman, B. E. (2003). John R. Commons and the Wisconsin School on industrial re
 
 Tapia, M., Ibsen, C. L., & Kochan, T. A. (2015). Mapping the frontier of theory in industrial relations: the contested role of worker representation. Socio-Economic Review, 13(1), 157-184.
 
-## What do unions do in the U.S.?
+## Comparative industrial relations
+### The United States
 Artz, B., Blanchflower, D. G., & Bryson, A. (2022). Unions increase job satisfaction in the United States. Journal of Economic Behavior & Organization, 203, 173-188.
 
 Budd, J. W. (1996). Union wage determination in Canadian and US manufacturing, 1964–1990: A comparative analysis. ILR Review, 49(4), 673-689.
@@ -36,13 +37,13 @@ Sojourner, A., & Yang, J. (2022). Effects of union certification on workplace-sa
 
 Sojourner, A. J., Frandsen, B. R., Town, R. J., Grabowski, D. C., & Chen, M. M. (2015). Impacts of unionization on quality and productivity: Regression discontinuity evidence from nursing homes. ILR Review, 68(4), 771-806.
 
+VanHeuvelen, T. (2018). Moral economies or hidden talents? A longitudinal analysis of union decline and wage inequality, 1973–2015. Social Forces, 97(2), 495-530.
+
 VanHeuvelen, T. (2020). The right to work, power resources, and economic inequality. American Journal of Sociology, 125(5), 1255-1302.
 
 VanHeuvelen, T., & Brady, D. (2022). Labor unions and American poverty. ILR Review, 75(4), 891-917.
 
-VanHeuvelen, T. (2018). Moral economies or hidden talents? A longitudinal analysis of union decline and wage inequality, 1973–2015. Social Forces, 97(2), 495-530.
-
-## What do unions do in China?
+### China
 Budd, J. W., Chi, W., Wang, Y., & Xie, Q. (2014). What do unions in China do? Provincial-level evidence on wages, employment, productivity, and economic output. Journal of Labor Research, 35(2), 185-204.
 
 Chen, F. (2003). Between the state and labour: The conflict of Chinese trade unions' double identity in market reform. The China Quarterly, 176, 1006-1028.
@@ -67,9 +68,13 @@ Yao, Y., & Zhong, N. (2013). Unions and workers’ welfare in Chinese firms. Jou
 
 Zhuang, W., & Chen, F. (2015). “Mediate First”: The revival of mediation in labour dispute resolution in China. The China Quarterly, 222, 380-402.
 
-## Trade unions and politics
+### Europe
+Blanchflower, D. G., & Bryson, A. (2022). Union membership and job satisfaction over the life course. Industrial Relations Journal, 53(5), 411-429.
+
+### Others
 Anner, M., & Liu, X. (2016). Harmonious unions and rebellious workers: A study of wildcat strikes in Vietnam. ILR review, 69(1), 3-28.
 
+## Trade unions and politics
 Budd, J. W., & Lamare, J. R. (2021). The importance of political systems for trade union membership, coverage and influence: Theory and comparative evidence. British Journal of Industrial Relations, 59(3), 757-787.
 
 Budd, J. W., & Lamare, J. R. (2021). Worker voice and political participation in civil society. In Handbook of Labor, Human Resources and Population Economics (pp. 1-20). Cham: Springer International Publishing.
@@ -88,7 +93,19 @@ Lamare, J. R., & Budd, J. W. (2022). The relative importance of industrial relat
 
 Sojourner, A. J. (2013). Do unions promote members' electoral office holding? Evidence from correlates of state legislatures' occupational shares. ILR Review, 66(2), 467-486.
 
-## Trade unions and gender
+## Industrial relations and identities
+### Intersectionality
+Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological theory, 28(2), 129-149.
+
+Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. Signs: Journal of Women in Culture and Society, 38(4), 785-810.
+
+Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
+
+Lee, T. L., & Tapia, M. (2021). Confronting race and other social identity erasures: the case for critical industrial relations theory. ILR Review, 74(3), 637-662.
+
+Suzuki, S., Morris, S. L., & Johnson, S. K. (2021). Using QuantCrit to advance an anti-racist developmental science: Applications to mixture modeling. Journal of Adolescent Research, 36(5), 535-560.
+
+### Gender
 Budd, J. W., & Mumford, K. (2004). Trade unions and family-friendly policies in Britain. ILR Review, 57(2), 204-222.
 
 Lurie, L. (2014). Do unions promote gender equality. Duke J. Gender L. & Pol'y, 22, 89.
@@ -97,7 +114,10 @@ Park, T. Y., Lee, E. S., & Budd, J. W. (2019). What do unions do for mothers? Pa
 
 Williamson, S., & Baird, M. (2014). Gender equality bargaining: Developing theory and practice. Journal of Industrial Relations, 56(2), 155-169.
 
-## Trade unions and immigrants
+### Race
+Frymer, P., & Grumbach, J. M. (2021). Labor unions and white racial politics. American Journal of Political Science, 65(1), 225-240.
+
+### Immigrants
 Alberti, G., Holgate, J., & Tapia, M. (2013). Organising migrants as workers or as migrant workers? Intersectionality, trade unions and precarious work. The International Journal of Human Resource Management, 24(22), 4132-4148.
 
 Bedaso, F. J., Jirjahn, U., & Goerke, L. (2022). Immigrants and Trade Union Membership: Does Integration into Society and Workplace Play a Moderating Role? (No. 1169). GLO Discussion Paper.
@@ -116,17 +136,6 @@ Colvin, A. J. (2004). The relationship between employee involvement and workplac
 Colvin, A. J. (2011). An empirical study of employment arbitration: Case outcomes and processes. Journal of Empirical Legal Studies, 8(1), 1-23.
 
 Lipsky, D. B., Avgar, A. C., & Lamare, J. R. (2020). Organizational conflict resolution and strategic choice: Evidence from a survey of Fortune 1000 firms. ILR Review, 73(2), 431-455.
-
-## Intersectionality
-Choo, H. Y., & Ferree, M. M. (2010). Practicing intersectionality in sociological research: A critical analysis of inclusions, interactions, and institutions in the study of inequalities. Sociological theory, 28(2), 129-149.
-
-Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. Signs: Journal of Women in Culture and Society, 38(4), 785-810.
-
-Fan, W., & Moen, P. (2022). Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. Work and Occupations, 49(2), 143-186.
-
-Lee, T. L., & Tapia, M. (2021). Confronting race and other social identity erasures: the case for critical industrial relations theory. ILR Review, 74(3), 637-662.
-
-Suzuki, S., Morris, S. L., & Johnson, S. K. (2021). Using QuantCrit to advance an anti-racist developmental science: Applications to mixture modeling. Journal of Adolescent Research, 36(5), 535-560.
 
 ## Political theory of work
 Fraser, N. (2013). Fortunes of feminism: From state-managed capitalism to neoliberal crisis. Verso Books. [(Book Reivew)](https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/)

@@ -1,0 +1,12 @@
+---
+title: "Trade union membership and women's right to work: The complex dynamics between gender, labor, and politics in Europe"
+collection: publications
+permalink: /publication/2022-11-02-women-right-to-work
+excerpt: 'In the *Economic and Philosophic Manuscripts of 1844*, Karl Marx famously asserts the "estrangement of man from man" under commodity production. Given the intertwined relationship between labor and gender, this declaration may be engendered and re-phrased as the "estrangement of man from woman." Men and women are alienated from each other, because work—once an essential feature of all human existence—has been construed as an exclusive sphere for men, with women being denied equal access and right to work. It is this narrowed and masculinized understanding of work that has catalyzed gender antagonism in early trade unionism.'
+date: 2023-04-04
+venue: 'Working Paper'
+citation: 'Lei, Jianxuan. (2023). &quot;Trade union membership and women&rsquo;s right to work: The complex dynamics between gender, labor, and politics in Europe.&quot;'
+---
+Lei, Jianxuan. (2023). "Trade union membership and women’s right to work: The complex dynamics between gender, labor, and politics in Europe."
+
+**Abstract**: The notion that women do not have the same right to work as men underlies gender antagonism in early trade unionism. While unions have been increasingly promoting gender equality and female-friendly workplaces, it remains unclear whether individual members’ attitudes towards women’s work have changed over time. In this study, I provide the first large-scale, comparative, and quantitative analysis of this question, covering more than 50,000 individuals across 47 European countries from 1990 to 2020. The results suggest a rather complex picture. Specifically, in the early 1990s, union members did not differ significantly from non-members in their attitudes towards women’s right to work. Since the late 1990s, union members exhibited more egalitarian gender attitudes than non-members. However, by 2020, the union-nonunion attitude gap appeared to have vanished. Further analysis indicates that a breadwinner ideology, in which manhood is defined in relation to wage labor, is the primary driver for less egalitarian gender attitudes among union members. In addition, the entrenchment of neoliberalism possibly contributes to the vanished union-nonunion attitude gap by altering the landscape of right-wing politics.

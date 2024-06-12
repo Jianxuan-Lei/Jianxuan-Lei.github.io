@@ -16,6 +16,8 @@ Hi there! My name is Jianxuan Lei, and I am a Ph.D. candidate in the [Department
 
 My current work follows two lines of inquiry. First, I study U.S. labor unions from an economic perspective, examining the impact of the 1981 Professional Air Traffic Controllers' Strike and the effects of public-sector unionism on private-sector employers and workers. Second, I study comparative employment relations with a more multidisciplinary approach, investigating the dynamics between organized labor and issues related to gender equality and immigration.
 
+You can find my CV [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf).
+
 ## Resources
 * Industrial Relations
   * [An invitation to industrial relations](https://jianxuan-lei.github.io/posts/2022/10/industrial-relations/)

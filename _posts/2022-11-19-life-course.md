@@ -61,11 +61,11 @@ Mortimer et al. (2015) explores why worker identity—the conscious awareness of
 
 The arguement is not wrong and can probably receive some empirical support. Yet I think it has missed an important aspect—the diminish of the work identity is likely to be accompanied by the rise of other identities. This is consistent with the principle of linked lives, by which life experience in one domain influences life experience in other domains. In my understanding, the decline of work identity is accompanied by the rise of consumer identity (Ibsen & Tapia, 2017): not only as a consumer of commodities (Lane, 1992), but also of captialist culture (Adorno & Bernstein, 2020), and of the service provided by welfare states (Fraser, 2013). Furthermore, there is likely to be an artificial ambiguity around the boundary of work and life (Weeks, 2017).
 
-### TBA
+### To be updated.
 
 ## Key methodologies in the life course studies
 
-### TBA
+### To be updated.
 
 ## References
 Adorno, T. W., & Bernstein, J. M. (2020). The culture industry: Selected essays on mass culture. Routledge.

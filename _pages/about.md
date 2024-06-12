@@ -14,7 +14,7 @@ fontsize: 9pt
 
 Hi there! My name is Jianxuan Lei, and I am a Ph.D. candidate in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota. My research focuses on industrial relations, particularly trade unions. 
 
-My current work follows two lines of inquiry. First, I study U.S. labor unions from an economic perspective, examining the impact of the 1981 Professional Air Traffic Controllers' Strike and the effects of public-sector unionism on private-sector employers and workers. Second, I study comparative employment relations with a more multidisciplinary approach, investigating the dynamics between organized labor and issues related to gender equality and immigration.
+My current work follows two lines of inquiry. First, I study U.S. labor unions from an economic perspective, examining the impact of the 1981 Professional Air Traffic Controllers' Strike and the effects of public-sector unionism on private-sector employers and workers. Second, I study comparative employment relations with a multidisciplinary approach, investigating the dynamics between organized labor and issues related to gender equality and immigration.
 
 You can find my CV [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf).
 

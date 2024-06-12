@@ -9,7 +9,9 @@ date: 2024-01-15
 location: "Minneapolis, U.S."
 ---
 **HRIR 3071: Union Organizing and Labor Relations**
+
 Undergraduate course, 2024 Spring (A Term)
+
 Carlson School of Management, University of Minnesota
 
 \[[Syllabus](https://jianxuan-lei.github.io/files/syllabus_hrir_3071.pdf) &#124; [Schedule](https://docs.google.com/document/d/1lJc9z3tncFjOeUPpiUJKGMabEuoxTS-8OStHFZwhM00/edit?usp=sharing)\]

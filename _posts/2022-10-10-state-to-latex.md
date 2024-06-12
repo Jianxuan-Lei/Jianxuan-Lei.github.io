@@ -8,7 +8,7 @@ tags:
   - Resources
 ---
 
-Stata's popular user-wrriten command [estout/esttab](http://repec.sowi.unibe.ch/stata/estout/) is a powerful tool to export Stata output to other envrionments (csv, txt, word, and tex). Nevertheless, there are lots of details one need to remember to use esttab/estout to produce nice tables. Things become even more intimidating if one wishes to use Stata for analysis and LaTeX for writing, because of LaTeX's plasticity and, therefore, complexity.
+Stata's popular user-wrriten command [estout/esttab](http://repec.sowi.unibe.ch/stata/estout/) is a powerful tool to export Stata output to other envrionments (csv, txt, word, and tex). Nevertheless, there are lots of details one need to remember to use esttab/estout to produce nice tables. Things become even more intimidating if one wishes to use Stata for analysis and LaTeX for writing, partly because of LaTeX's plasticity and, therefore, complexity.
 
 As such, I realize that it might be a good idea to come up with some easy-to-use Stata-to-LaTeX templates. With these templates, most Stata-to-LaTeX transfers can be done on a copy-and-paste basis. [Here](https://www.overleaf.com/read/kfxrxfbqsytm) is my intitial effort (this link will lead you to Overleaf, an online LaTeX editor). As the abstract goes,
 

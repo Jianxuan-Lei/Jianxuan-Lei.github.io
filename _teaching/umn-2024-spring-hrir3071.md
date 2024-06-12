@@ -10,7 +10,7 @@ location: "Minneapolis, U.S."
 ---
 **HRIR 3071: Union Organizing and Labor Relations**
 
-Undergraduate course, 2024 Spring (A Term)
+Undergraduate Course, 2024 Spring (A Term)
 
 Carlson School of Management, University of Minnesota
 

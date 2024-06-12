@@ -3,7 +3,7 @@ title: "HRIR 3071: Union Organizing and Labor Relations"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/umn-2024-spring-hrir3071
-excerpt: '&#091;<a href="https://jianxuan-lei.github.io/files/syllabus_hrir_3071.pdf">Syllabus;</a> | <a href="https://docs.google.com/document/d/1lJc9z3tncFjOeUPpiUJKGMabEuoxTS-8OStHFZwhM00/edit?usp=sharing">Schedule;</a> &#093'
+excerpt: '&#091;<a href="https://jianxuan-lei.github.io/files/syllabus_hrir_3071.pdf">Syllabus;</a> &#124; <a href="https://docs.google.com/document/d/1lJc9z3tncFjOeUPpiUJKGMabEuoxTS-8OStHFZwhM00/edit?usp=sharing">Schedule;</a> &#093'
 venue: "University of Minnesota, Carlson School of Management"
 date: 2024-01-15
 location: "Minneapolis, U.S."

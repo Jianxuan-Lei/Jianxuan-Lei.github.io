@@ -5,7 +5,7 @@ permalink: /publication/2022-11-02-women-right-to-work
 excerpt: 'In the *Economic and Philosophic Manuscripts of 1844*, Karl Marx famously asserts the "estrangement of *man* from *man*" under commodity production. Given the intertwined relationship between labor and gender, this declaration may be re-phrased as the "estrangement of *man* from *woman*." Men and women are alienated from each other, because work—once an essential feature of human existence—has been construed as an exclusive sphere for men, with women being denied the equal access and right to work. It is this narrowed and masculinized understanding of work that has catalyzed gender antagonism in early trade unionism. While trade unions as an organization have been increasingly promoting gender equality in the workplace, it remains unclear whether individual members have changed their attitudes towards women’s work over time.'
 date: 2024-06-12
 venue: 'Working Paper'
-citation: 'Lei, Jianxuan. (2023). &quot;Trade union membership and women&rsquo;s right to work: The complex dynamics between gender, labor, and politics in Europe.&quot;'
+citation: 'Lei, Jianxuan. (2023). &quot;Trade union membership and women&rsquo;s right to work: The complex dynamics between gender, labor, and politics in Europe.&quot; [Link](https://jianxuan-lei.github.io/files/rtw.pdf) to the manuscript.'
 ---
 Lei, Jianxuan. (2023). "Trade union membership and women’s right to work: The complex dynamics between gender, labor, and politics in Europe."
 

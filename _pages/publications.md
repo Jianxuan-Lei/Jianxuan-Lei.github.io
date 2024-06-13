@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 header:
   overlay_image: xihu1.jpg
   overlay_filter: 0.1

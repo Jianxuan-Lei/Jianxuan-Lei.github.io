@@ -2,7 +2,7 @@
 title: "Contested solidarity: Trade union memebrship and immigration attitudes in Europe"
 collection: publications
 permalink: /publication/union-immigration-attitudes
-excerpt: '123'
+excerpt: '**Abstract**: TBD.'
 date: 2024-09-24
 venue: 'Working Paper'
 citation: 'Lei, Jianxuan. &quot;Contested solidarity: Trade union memebrship and immigration attitudes in Europe.&quot; Status: Preparing for submission. <a href="https://jianxuan-lei.github.io/files/paper_immigration.pdf" class="fas fa-fw fa-file-pdf"></a>'

@@ -49,24 +49,6 @@ The second approach sees intersectionality as a process: highlighting power as r
 
 Finally, the third approach regards intersectionality as shaping the entire social system. This approach pushes analysis away from associating specific inequalities with specific formal and informal institutions. Instead, it looks for processes that are fully interactive, historically co-determining, and complex. In my own [research](https://jianxuan-lei.github.io/publication/2022-11-02-women-right-to-work), I find that women's confinement to exploitative occupations and family work in the eighteenth and nineteenth centuries was largely due to a complex interplay of cultural, religious, and political factors.
 
-## Key concepts in the life course studies
-
-### Cumulative advantages and disadvantages
-Dannefer (2020) defines cumulative advantages and disadvantages as the systemic tendency for interindividual divergence in a given characteristic to increase with the passage of time. The author makes a quite strong statement that "processes generating tendencies toward cumulative advantages and disadvantages ... are inherent, law-like features of social life", since they are "a standard part of the operation of society." (p. 1251).
-
-Some seminar participants had a problem with this claim, as they had seen many things changed and improved over time (e.g., women's social, economic, and political right). Some other participants, including one of Dannerfer's advisee, defended his claim by emphasizing the typical ways human psychology tends to work (e.g., typifying and labeling). From the principle of agency and constrained choices, I think both groups are correct: human agency challenges problemtic social institutions, yet human agency is also prescribed by social institutions. For example, Fraser (2013) notes how day care centers, once a remarkable achivement of the second-wave feminist movement, have gradully become degraded and stigmized. Yet new effort is then generated to combat this trend and seek alternatives (see my [book review](https://jianxuan-lei.github.io/posts/2022/10/fortunes-of-feminism/) if interested).
-
-### Worker identity
-Mortimer et al. (2015) explores why worker identity—the conscious awareness of oneself as a worker—has declined over time. Their main argument is that more insecure and less rewarding jobs for young workers may diminish the salience of work identity. Meanwhile, with more youth attending colleges, securing a "real job" becomes an increasingly distant phenomenon, further retarding the formation of worker identity.
-
-The arguement is not wrong and can probably receive some empirical support. Yet I think it has missed an important aspect—the diminish of the work identity is likely to be accompanied by the rise of other identities. This is consistent with the principle of linked lives, by which life experience in one domain influences life experience in other domains. In my understanding, the decline of work identity is accompanied by the rise of consumer identity (Ibsen & Tapia, 2017): not only as a consumer of commodities (Lane, 1992), but also of captialist culture (Adorno & Bernstein, 2020), and of the service provided by welfare states (Fraser, 2013). Furthermore, there is likely to be an artificial ambiguity around the boundary of work and life (Weeks, 2017).
-
-### To be updated.
-
-## Key methodologies in the life course studies
-
-### To be updated.
-
 ## References
 Adorno, T. W., & Bernstein, J. M. (2020). The culture industry: Selected essays on mass culture. Routledge.
 

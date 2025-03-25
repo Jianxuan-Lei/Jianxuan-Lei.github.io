@@ -6,6 +6,7 @@ excerpt: '**Abstract**: The notion that women do not have the equal right to wor
 date: 2024-06-12
 venue: 'Working Paper'
 citation: 'Lei, Jianxuan. &quot;Trade union membership and women&rsquo;s right to work: From gender antagonism to inclusive solidarity?&quot; Status: Revision requested at the <i>ILR Review</i>. <a href="https://jianxuan-lei.github.io/files/paper_rtw.pdf" class="fas fa-fw fa-file-pdf"></a>'
+status: in-progress
 ---
 **Lei, Jianxuan**. "Trade union membership and women’s right to work: From gender antagonism to inclusive solidarity?" Status: Revision requested at the *ILR Review*.
 

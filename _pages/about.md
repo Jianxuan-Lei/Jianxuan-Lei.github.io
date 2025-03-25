@@ -10,7 +10,7 @@ redirect_from:
   - /wordpress.html
 fontsize: 9pt
 ---
-## About Me
+## About me
 
 I am a Ph.D. candidate in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota. I study industrial relations with a focus on labor unions. My current research centers on understanding causes of union decline and identifying strategies for union revitalization. One line of my work investigates the role of employer resistance in explaining union decline. My job market paper, in particular, examines whether President Reagan’s 1981 firing of over 11,000 striking air traffic controllers contributed to falling private-sector union organizing activity by signaling a growing acceptability of union busting. Another line of work explores the opportunities and challenges of building inclusive labor movements to support union revitalization, analyzing union members’ evolving attitudes towards women’s employment and immigration.
 

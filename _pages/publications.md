@@ -17,3 +17,20 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+## Work in Progress
+
+{% assign wip = site.publications | where: "status", "in-progress" | sort: "year" | reverse %}
+{% for post in wip %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## Published Work
+
+{% assign published = site.publications | where: "status", "published" | sort: "year" | reverse %}
+{% for post in published %}
+  {% include archive-single.html %}
+{% endfor %}

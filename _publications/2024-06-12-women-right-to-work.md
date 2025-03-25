@@ -1,5 +1,5 @@
 ---
-title: "Lei, Jianxuan. From gender antagonism to inclusive solidarity? Trade union memebrship and attitudes towards women's employment."
+title: Work in Progress"
 collection: publications
 permalink: /publication/work-in-progress
 date: 2025-03-25

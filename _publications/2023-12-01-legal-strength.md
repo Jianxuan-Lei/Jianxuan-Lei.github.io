@@ -6,6 +6,7 @@ excerpt: '**Abstract**: This paper studies how legal strength—the effectivenes
 date: 2023-12-01
 venue: 'Journal Article'
 citation: 'Lei, Jianxuan. &quot;The importance of legal strength for trade unions: Theory and evidence from China.&quot; <i>Industrial Relations: A Journal of Economy and Society</i> (2023). <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/irel.12351" style="text-decoration:none;" class="fa fa-fw fa-link"></a>'
+status: published
 ---
 **Lei, Jianxuan**. "The importance of legal strength for trade unions: Theory and evidence from China." *Industrial Relations: A Journal of Economy and Society* (2023).
 

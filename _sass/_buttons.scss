@@ -155,14 +155,15 @@
   
    &--research {
      display: inline-block;
-     margin-bottom: 0.25em;
+     margin-bottom: 0.125em;
      padding: 0.125em 0.125em;
      color: $link-color;
+     font-size: 0.5em;
      text-align: center;
      text-decoration: none !important;
      border: 1px solid;
      border-color: $link-color;
-     border-radius: $border-radius;
+     border-radius: $border-radius * 0.5;
      cursor: pointer;
    
      &:hover {

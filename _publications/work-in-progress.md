@@ -1,7 +1,7 @@
 ---
 title: "Work in Progress"
 collection: publications
-permalink: /publication/work-in-progress
+permalink: /publication/in-progress
 date: 2025-03-25
 venue: 'Working Paper'
 status: in-progress

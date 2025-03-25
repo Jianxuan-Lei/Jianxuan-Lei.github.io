@@ -12,16 +12,4 @@ fontsize: 9pt
 ---
 ## About me
 
-Hi there! My name is Jianxuan Lei, and I am a doctoral candidate in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota. My research focuses on industrial relations, particularly trade unions. 
-
-My current work follows two lines of inquiry. First, I study U.S. labor unions from an economic perspective, examining the impact of the 1981 Professional Air Traffic Controllers' Strike and the effects of public-sector unionism on private-sector employers and workers. Second, I study comparative employment relations with a multidisciplinary approach, investigating the dynamics between organized labor and issues related to gender equality and immigration.
-
-You can find my CV [here](https://jianxuan-lei.github.io/files/CV_Jianxuan_Lei.pdf).
-
-## Resources
-* Industrial Relations
-  * [An invitation to industrial relations](https://jianxuan-lei.github.io/posts/2022/10/industrial-relations/)
-  * [A note on the life course perspective in sociology](https://jianxuan-lei.github.io/posts/2022/11/life-course/)
-
-* Stata
-  * [Simple Stata-to-LaTeX templates](https://jianxuan-lei.github.io/posts/2022/10/stata-to-latex/) (Stata & Overleaf)
+I am a PH.D. candidate in the [Department of Work and Organizations](https://carlsonschool.umn.edu/departments/work-organizations-department) at the Carlson School of Management, University of Minnesota. I study industrial relations with a focus on labor unions. My current research centers on understanding causes of union decline and identifying strategies for union revitalization. One line of my work investigates the role of employer resistance in explaining union decline. My **job market paper**, in particular, examines whether President Reagan’s 1981 firing of over 11,000 striking air traffic controllers contributed to falling private-sector union organizing activity by signaling a growing acceptability of union busting. Another line of work explores the opportunities and challenges of building inclusive labor movements to support union revitalization, analyzing union members’ evolving attitudes towards women’s employment and immigration.

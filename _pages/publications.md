@@ -5,7 +5,7 @@ permalink: /research/
 header:
   overlay_image: xihu1.jpg
   overlay_filter: 0.1
-author_profile: true
+author_profile: false
 ---
 
 {% assign wip = site.publications | where: "status", "in-progress" | sort: "year" | reverse %}

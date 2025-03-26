@@ -1,12 +1,11 @@
 ---
-layout: archive2
+layout: archive
 title: "Research"
 permalink: /research/
 header:
   overlay_image: xihu1.jpg
   overlay_filter: 0.1
-author_profile: false
-page.sidebar: false
+author_profile: true
 ---
 
 {% assign wip = site.publications | where: "status", "in-progress" | sort: "year" | reverse %}

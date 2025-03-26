@@ -97,9 +97,13 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 50%);
 $link-color-visited         : mix(#fff, $link-color, 50%);
-$masthead-link-color        : #000 !default;
-$masthead-link-color-hover  : #000 !default;
-$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+$masthead-link-color        : #000;
+$masthead-link-color-hover  : #000;
+$navicon-link-color-hover   : #000;
+
+/* $masthead-link-color        : $primary-color !default; */
+/* $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default; */
+/* $navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default; */
 
 /* syntax highlighting (base16) */
 $base00: #002635 !default;

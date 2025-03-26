@@ -8,7 +8,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
-$doc-font-size              : 16;
+$doc-font-size              : 14;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -17,7 +17,8 @@ $indent-var                 : 1.3em;
 /* system typefaces */
 /* $serif                      : Georgia, Times, serif; */
 $serif                      : "Merriweather", serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; */
+$sans-serif                 : "Merriweather", serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */

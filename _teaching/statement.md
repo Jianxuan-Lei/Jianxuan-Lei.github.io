@@ -1,1 +1,7 @@
+---
+title: "Teaching Overview"
+collection: teaching
+permalink: /teaching/statement
+date: 2025-03-31
+---
 I have teaching experience in labor relations at the undergraduate level. My courses explore the intellectual foundations of employment relations, the history of the U.S. labor movement, the fundamentals of U.S. labor law, and key aspects of international employment systems. I emphasize hands-on learning through a range of interactive activities, including interpreting legal cases, debating legislative proposals, conducting simulated collective bargaining, and participating in mock dispute resolution exercises. More broadly, I have a strong interest in teaching and a background in other employment-related subjects, including human resource management, compensation and benefits, and people analytics.

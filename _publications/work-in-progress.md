@@ -6,8 +6,6 @@ date: 2025-03-25
 venue: 'Working Paper'
 status: in-progress
 ---
-**Lei, Jianxuan**. "Normalizing opposition to labor unions: The impact of the 1981 PATCO strike on union organizing." (Job market paper) [PDF](https://jianxuan-lei.github.io/files/paper_patco.pdf){: .btn--research}
-
 **Lei, Jianxuan**, Xin Meng, and Xueyu Wang. "Do you hear the people sing? The impact of strikes on workers’ mental health." Status: under R&R. [PDF](https://jianxuan-lei.github.io/files/paper_strike_mental_health.pdf){: .btn--research}
 
 **Lei, Jianxuan**. "From gender antagonism to inclusive solidarity? Trade union membership and attitudes towards women's employment." Status: working paper. [PDF](https://jianxuan-lei.github.io/files/paper_union_gender.pdf){: .btn--research}

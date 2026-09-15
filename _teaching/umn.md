@@ -1,5 +1,5 @@
 ---
-title: "University of Minnesota"
+title: "University of Minnesota Twin Cities"
 collection: teaching
 permalink: /teaching/umn
 date: 2024-01-15
